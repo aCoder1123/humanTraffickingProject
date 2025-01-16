@@ -1,0 +1,3062 @@
+{
+    "A Coruna": {
+        "name": "A Coruna",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Abilene": {
+        "name": "Abilene",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Abu Dhabi": {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "continent": "Asia"
+    },
+    "Acapulco": {
+        "name": "Acapulco",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Accra": {
+        "name": "Accra",
+        "country": "Ghana",
+        "continent": "Africa"
+    },
+    "Addis Ababa": {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "continent": "Africa"
+    },
+    "Adelaide": {
+        "name": "Adelaide",
+        "country": "Australia",
+        "continent": "Oceania"
+    },
+    "Agana, Guam": {
+        "name": "Agana, Guam",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Aguadilla": {
+        "name": "Aguadilla",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Aguascalientes": {
+        "name": "Aguascalientes",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Ahmedabad": {
+        "name": "Ahmedabad",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Akita": {
+        "name": "Akita",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Akron": {
+        "name": "Akron",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Alakanuk": {
+        "name": "Alakanuk",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Albany": {
+        "name": "Albany",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Albuquerque": {
+        "name": "Albuquerque",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Alexandria": {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "continent": "Africa"
+    },
+    "Alicante": {
+        "name": "Alicante",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Allentown": {
+        "name": "Allentown",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Amarillo": {
+        "name": "Amarillo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Amman": {
+        "name": "Amman",
+        "country": "Jordan",
+        "continent": "Asia"
+    },
+    "Amsterdam": {
+        "name": "Amsterdam",
+        "country": "Netherlands, Kingdom of the",
+        "continent": "Europe"
+    },
+    "Anchorage": {
+        "name": "Anchorage",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Antofagasta": {
+        "name": "Antofagasta",
+        "country": "Chile",
+        "continent": "South America"
+    },
+    "Appleton": {
+        "name": "Appleton",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Arcata": {
+        "name": "Arcata",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Arequipa": {
+        "name": "Arequipa",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "Armenia": {
+        "name": "Armenia",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Asahikawa": {
+        "name": "Asahikawa",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Asheville": {
+        "name": "Asheville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Aspen": {
+        "name": "Aspen",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Athens": {
+        "name": "Athens",
+        "country": "Greece",
+        "continent": "Europe"
+    },
+    "Atlanta": {
+        "name": "Atlanta",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Atlantic City": {
+        "name": "Atlantic City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Auckland": {
+        "name": "Auckland",
+        "country": "New Zealand",
+        "continent": "Oceania"
+    },
+    "Augusta": {
+        "name": "Augusta",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Austin": {
+        "name": "Austin",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Ayacucho": {
+        "name": "Ayacucho",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "Ayers Rock": {
+        "name": "Ayers Rock",
+        "country": "New Zealand",
+        "continent": "Oceania"
+    },
+    "Bakersfield": {
+        "name": "Bakersfield",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Baltimore": {
+        "name": "Baltimore",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Baltimore, MD / Washington DC AREA": {
+        "name": "Baltimore, MD / Washington DC AREA",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Bangalore": {
+        "name": "Bangalore",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Bangkok": {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "continent": "Asia"
+    },
+    "Bangor": {
+        "name": "Bangor",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Barcelona": {
+        "name": "Barcelona",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Bari": {
+        "name": "Bari",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Barranquilla": {
+        "name": "Barranquilla",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Basel": {
+        "name": "Basel",
+        "country": "Switzerland",
+        "continent": "Europe"
+    },
+    "Basseterre, St. Kitts": {
+        "name": "Basseterre, St. Kitts",
+        "country": "Saint Kitts and Nevis",
+        "continent": "North America"
+    },
+    "Baton Rouge": {
+        "name": "Baton Rouge",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Beijing": {
+        "name": "Beijing",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Beirut": {
+        "name": "Beirut",
+        "country": "Lebanon",
+        "continent": "Asia"
+    },
+    "Belgrade": {
+        "name": "Belgrade",
+        "country": "Serbia",
+        "continent": "Europe"
+    },
+    "Belize City": {
+        "name": "Belize City",
+        "country": "Belize",
+        "continent": "North America"
+    },
+    "Bellingham": {
+        "name": "Bellingham",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Belo Horizonte": {
+        "name": "Belo Horizonte",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Bengaluru": {
+        "name": "Bengaluru",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Bergen": {
+        "name": "Bergen",
+        "country": "Norway",
+        "continent": "Europe"
+    },
+    "Berlin": {
+        "name": "Berlin",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Bilbao": {
+        "name": "Bilbao",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Billings": {
+        "name": "Billings",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Bismarck": {
+        "name": "Bismarck",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Bloomington": {
+        "name": "Bloomington",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Bogota": {
+        "name": "Bogota",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Boise": {
+        "name": "Boise",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Bologna": {
+        "name": "Bologna",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Bora Bora": {
+        "name": "Bora Bora",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Bordeaux": {
+        "name": "Bordeaux",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Boston": {
+        "name": "Boston",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Bozeman": {
+        "name": "Bozeman",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Brasilia": {
+        "name": "Brasilia",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Bremen": {
+        "name": "Bremen",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Bridgetown": {
+        "name": "Bridgetown",
+        "country": "Barbados",
+        "continent": "North America"
+    },
+    "Bridgetown, Barbados": {
+        "name": "Bridgetown, Barbados",
+        "country": "Barbados",
+        "continent": "North America"
+    },
+    "Brindisi": {
+        "name": "Brindisi",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Brisbane": {
+        "name": "Brisbane",
+        "country": "Australia",
+        "continent": "Oceania"
+    },
+    "Brownsville": {
+        "name": "Brownsville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Brussels": {
+        "name": "Brussels",
+        "country": "Belgium",
+        "continent": "Europe"
+    },
+    "Bucaramanga": {
+        "name": "Bucaramanga",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Bucharest": {
+        "name": "Bucharest",
+        "country": "Romania",
+        "continent": "Europe"
+    },
+    "Budapest": {
+        "name": "Budapest",
+        "country": "Hungary",
+        "continent": "Europe"
+    },
+    "Buenos Aires": {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "continent": "South America"
+    },
+    "Buffalo": {
+        "name": "Buffalo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Burbank": {
+        "name": "Burbank",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Burlington": {
+        "name": "Burlington",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Cabo San Lucas": {
+        "name": "Cabo San Lucas",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Cairo": {
+        "name": "Cairo",
+        "country": "Egypt",
+        "continent": "Africa"
+    },
+    "Cajamarca": {
+        "name": "Cajamarca",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "Calama": {
+        "name": "Calama",
+        "country": "Chile",
+        "continent": "South America"
+    },
+    "Calgary": {
+        "name": "Calgary",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Cali": {
+        "name": "Cali",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Campeche": {
+        "name": "Campeche",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Cancun": {
+        "name": "Cancun",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Cap Haitien": {
+        "name": "Cap Haitien",
+        "country": "Haiti",
+        "continent": "North America"
+    },
+    "Cape Town": {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "continent": "Africa"
+    },
+    "Cartagena": {
+        "name": "Cartagena",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Casablanca": {
+        "name": "Casablanca",
+        "country": "Morocco",
+        "continent": "Africa"
+    },
+    "Casper": {
+        "name": "Casper",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Catania": {
+        "name": "Catania",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Cebu": {
+        "name": "Cebu",
+        "country": "Philippines",
+        "continent": "Asia"
+    },
+    "Cedar Rapids": {
+        "name": "Cedar Rapids",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Champaign": {
+        "name": "Champaign",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Charleston": {
+        "name": "Charleston",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Charlotte": {
+        "name": "Charlotte",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Charlottesville": {
+        "name": "Charlottesville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Chattanooga": {
+        "name": "Chattanooga",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Chengdu": {
+        "name": "Chengdu",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Chennai": {
+        "name": "Chennai",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Chetumal": {
+        "name": "Chetumal",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Cheyenne": {
+        "name": "Cheyenne",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Chicago": {
+        "name": "Chicago",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Chiclayo": {
+        "name": "Chiclayo",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "Chihuahua": {
+        "name": "Chihuahua",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Christchurch": {
+        "name": "Christchurch",
+        "country": "New Zealand",
+        "continent": "Oceania"
+    },
+    "Chuuk": {
+        "name": "Chuuk",
+        "country": "Micronesia, Federated States of",
+        "continent": "Oceania"
+    },
+    "Cincinnati": {
+        "name": "Cincinnati",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Ciudad Obregon": {
+        "name": "Ciudad Obregon",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Ciudad del Carmen": {
+        "name": "Ciudad del Carmen",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Cleveland": {
+        "name": "Cleveland",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Cody": {
+        "name": "Cody",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Colima": {
+        "name": "Colima",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "College Station": {
+        "name": "College Station",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Colombo": {
+        "name": "Colombo",
+        "country": "Sri Lanka",
+        "continent": "Asia"
+    },
+    "Colorado Springs": {
+        "name": "Colorado Springs",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Columbia": {
+        "name": "Columbia",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Columbus": {
+        "name": "Columbus",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Concepci\u00f3n": {
+        "name": "Concepci\u00f3n",
+        "country": "Chile",
+        "continent": "South America"
+    },
+    "Copenhagen": {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "continent": "Europe"
+    },
+    "Cordoba": {
+        "name": "Cordoba",
+        "country": "Argentina",
+        "continent": "South America"
+    },
+    "Corpus Christi": {
+        "name": "Corpus Christi",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Cozumel": {
+        "name": "Cozumel",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Culiacan": {
+        "name": "Culiacan",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Curacao": {
+        "name": "Curacao",
+        "country": "Netherlands, Kingdom of the",
+        "continent": "Europe"
+    },
+    "Curitiba": {
+        "name": "Curitiba",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Cusco": {
+        "name": "Cusco",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "C\u00facuta": {
+        "name": "C\u00facuta",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Dakar": {
+        "name": "Dakar",
+        "country": "Senegal",
+        "continent": "Africa"
+    },
+    "Dallas": {
+        "name": "Dallas",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Dammam": {
+        "name": "Dammam",
+        "country": "Saudi Arabia",
+        "continent": "Asia"
+    },
+    "Dar es Salaam": {
+        "name": "Dar es Salaam",
+        "country": "Tanzania, United Republic of",
+        "continent": "Africa"
+    },
+    "Dayton": {
+        "name": "Dayton",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Daytona Beach": {
+        "name": "Daytona Beach",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Decatur": {
+        "name": "Decatur",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Delhi": {
+        "name": "Delhi",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Denver": {
+        "name": "Denver",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Des Moines": {
+        "name": "Des Moines",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Destin": {
+        "name": "Destin",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Detroit": {
+        "name": "Detroit",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Devils Lake": {
+        "name": "Devils Lake",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Dhaka": {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "continent": "Asia"
+    },
+    "Dickinson": {
+        "name": "Dickinson",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Dodge City": {
+        "name": "Dodge City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Doha": {
+        "name": "Doha",
+        "country": "Qatar",
+        "continent": "Asia"
+    },
+    "Dubai": {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "continent": "Asia"
+    },
+    "Dublin": {
+        "name": "Dublin",
+        "country": "Ireland",
+        "continent": "Europe"
+    },
+    "Dubrovnik": {
+        "name": "Dubrovnik",
+        "country": "Croatia",
+        "continent": "Europe"
+    },
+    "Duluth": {
+        "name": "Duluth",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Durango": {
+        "name": "Durango",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Dusseldorf": {
+        "name": "Dusseldorf",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Edmonton": {
+        "name": "Edmonton",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "El Paso": {
+        "name": "El Paso",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Entebbe": {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "continent": "Africa"
+    },
+    "Erie": {
+        "name": "Erie",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Eugene": {
+        "name": "Eugene",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Evansville": {
+        "name": "Evansville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fairbanks": {
+        "name": "Fairbanks",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fargo": {
+        "name": "Fargo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Faro": {
+        "name": "Faro",
+        "country": "Portugal",
+        "continent": "Europe"
+    },
+    "Fayetteville": {
+        "name": "Fayetteville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Flagstaff": {
+        "name": "Flagstaff",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Flint": {
+        "name": "Flint",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Florence": {
+        "name": "Florence",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Florianopolis": {
+        "name": "Florianopolis",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Fort Collins": {
+        "name": "Fort Collins",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fort Dodge": {
+        "name": "Fort Dodge",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fort Lauderdale": {
+        "name": "Fort Lauderdale",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fort Myers": {
+        "name": "Fort Myers",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fort Smith": {
+        "name": "Fort Smith",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fort-De-France, Martinique": {
+        "name": "Fort-De-France, Martinique",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Fortaleza": {
+        "name": "Fortaleza",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Frankfurt": {
+        "name": "Frankfurt",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Freeport, Bahamas": {
+        "name": "Freeport, Bahamas",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fresno": {
+        "name": "Fresno",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Ft Wayne": {
+        "name": "Ft Wayne",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Fukuoka": {
+        "name": "Fukuoka",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Gainesville": {
+        "name": "Gainesville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Garden City": {
+        "name": "Garden City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Geneva": {
+        "name": "Geneva",
+        "country": "Switzerland",
+        "continent": "Europe"
+    },
+    "Genoa": {
+        "name": "Genoa",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "George Town, Bahamas": {
+        "name": "George Town, Bahamas",
+        "country": "Malaysia",
+        "continent": "Asia"
+    },
+    "Georgetown": {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "continent": "South America"
+    },
+    "Gillette": {
+        "name": "Gillette",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Gothenburg": {
+        "name": "Gothenburg",
+        "country": "Sweden",
+        "continent": "Europe"
+    },
+    "Governor\u2019s Harbour": {
+        "name": "Governor\u2019s Harbour",
+        "country": "Bahamas",
+        "continent": "North America"
+    },
+    "Gran Canaria": {
+        "name": "Gran Canaria",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Granada": {
+        "name": "Granada",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Grand Canyon": {
+        "name": "Grand Canyon",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Grand Island": {
+        "name": "Grand Island",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Grand Junction": {
+        "name": "Grand Junction",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Grand Rapids": {
+        "name": "Grand Rapids",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Great Falls": {
+        "name": "Great Falls",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Green Bay": {
+        "name": "Green Bay",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Greensboro": {
+        "name": "Greensboro",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Greenville": {
+        "name": "Greenville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Guadalajara": {
+        "name": "Guadalajara",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Guangzhou": {
+        "name": "Guangzhou",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Guatemala City": {
+        "name": "Guatemala City",
+        "country": "Guatemala",
+        "continent": "North America"
+    },
+    "Guayaquil": {
+        "name": "Guayaquil",
+        "country": "Ecuador",
+        "continent": "South America"
+    },
+    "Gulfport": {
+        "name": "Gulfport",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Gunnison": {
+        "name": "Gunnison",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hakodate": {
+        "name": "Hakodate",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Halifax": {
+        "name": "Halifax",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Hamburg": {
+        "name": "Hamburg",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Hamilton": {
+        "name": "Hamilton",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Hamilton, Bermuda": {
+        "name": "Hamilton, Bermuda",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Hancock": {
+        "name": "Hancock",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hanover": {
+        "name": "Hanover",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Harare": {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "continent": "Africa"
+    },
+    "Harlingen": {
+        "name": "Harlingen",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Harrisburg": {
+        "name": "Harrisburg",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hartford": {
+        "name": "Hartford",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hattiesburg": {
+        "name": "Hattiesburg",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Havana": {
+        "name": "Havana",
+        "country": "Cuba",
+        "continent": "North America"
+    },
+    "Hays": {
+        "name": "Hays",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Helena": {
+        "name": "Helena",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Helsinki": {
+        "name": "Helsinki",
+        "country": "Finland",
+        "continent": "Europe"
+    },
+    "Hermosillo": {
+        "name": "Hermosillo",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Hilo": {
+        "name": "Hilo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hilton Head Island": {
+        "name": "Hilton Head Island",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hobbs": {
+        "name": "Hobbs",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hong Kong": {
+        "name": "Hong Kong",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Honolulu": {
+        "name": "Honolulu",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Houston": {
+        "name": "Houston",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Huatulco": {
+        "name": "Huatulco",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Huntington": {
+        "name": "Huntington",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Huntsville": {
+        "name": "Huntsville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hyannis": {
+        "name": "Hyannis",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Hyderabad": {
+        "name": "Hyderabad",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Ibiza": {
+        "name": "Ibiza",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Idaho Falls": {
+        "name": "Idaho Falls",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Indianapolis": {
+        "name": "Indianapolis",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Iquique": {
+        "name": "Iquique",
+        "country": "Chile",
+        "continent": "South America"
+    },
+    "Islamabad": {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "continent": "Asia"
+    },
+    "Ithaca": {
+        "name": "Ithaca",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Ixtapa-Zihuatanejo": {
+        "name": "Ixtapa-Zihuatanejo",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Jackson": {
+        "name": "Jackson",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Jackson Hole": {
+        "name": "Jackson Hole",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Jacksonville": {
+        "name": "Jacksonville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Jakarta": {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "continent": "Asia"
+    },
+    "Jamestown": {
+        "name": "Jamestown",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Jeddah": {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "continent": "Asia"
+    },
+    "Johannesburg": {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "continent": "Africa"
+    },
+    "Johnson City": {
+        "name": "Johnson City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Joplin": {
+        "name": "Joplin",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Juarez": {
+        "name": "Juarez",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Juneau": {
+        "name": "Juneau",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Kalamazoo": {
+        "name": "Kalamazoo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Kalispell": {
+        "name": "Kalispell",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Kansas City": {
+        "name": "Kansas City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Karachi": {
+        "name": "Karachi",
+        "country": "Pakistan",
+        "continent": "Asia"
+    },
+    "Kathmandu": {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "continent": "Asia"
+    },
+    "Kauai": {
+        "name": "Kauai",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Kelowna": {
+        "name": "Kelowna",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Ketchikan": {
+        "name": "Ketchikan",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Key West": {
+        "name": "Key West",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Kilimanjaro": {
+        "name": "Kilimanjaro",
+        "country": "Tanzania, United Republic of",
+        "continent": "Africa"
+    },
+    "Killeen": {
+        "name": "Killeen",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Kingston": {
+        "name": "Kingston",
+        "country": "Jamaica",
+        "continent": "North America"
+    },
+    "Kirksville": {
+        "name": "Kirksville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Knoxville": {
+        "name": "Knoxville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Kochi": {
+        "name": "Kochi",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Kolkata": {
+        "name": "Kolkata",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Koror": {
+        "name": "Koror",
+        "country": "Palau",
+        "continent": "Oceania"
+    },
+    "Kosrae": {
+        "name": "Kosrae",
+        "country": "Micronesia, Federated States of",
+        "continent": "Oceania"
+    },
+    "Krakow": {
+        "name": "Krakow",
+        "country": "Poland",
+        "continent": "Europe"
+    },
+    "Kralendijk": {
+        "name": "Kralendijk",
+        "country": "Netherlands, Kingdom of the",
+        "continent": "Europe"
+    },
+    "Kralendijk, Bonaire": {
+        "name": "Kralendijk, Bonaire",
+        "country": "Netherlands, Kingdom of the",
+        "continent": "Europe"
+    },
+    "Kuala Lumpur": {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "continent": "Asia"
+    },
+    "Kwajalein": {
+        "name": "Kwajalein",
+        "country": "Marshall Islands",
+        "continent": "Oceania"
+    },
+    "La Crosse": {
+        "name": "La Crosse",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "La Paz": {
+        "name": "La Paz",
+        "country": "Bolivia, Plurinational State of",
+        "continent": "South America"
+    },
+    "La Romana": {
+        "name": "La Romana",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Lafayette": {
+        "name": "Lafayette",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lagos": {
+        "name": "Lagos",
+        "country": "Nigeria",
+        "continent": "Africa"
+    },
+    "Lahore": {
+        "name": "Lahore",
+        "country": "Pakistan",
+        "continent": "Asia"
+    },
+    "Lake Charles": {
+        "name": "Lake Charles",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lansing": {
+        "name": "Lansing",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Laramie": {
+        "name": "Laramie",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Laredo": {
+        "name": "Laredo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Larnaka": {
+        "name": "Larnaka",
+        "country": "Cyprus",
+        "continent": "Europe"
+    },
+    "Las Vegas": {
+        "name": "Las Vegas",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Latrobe": {
+        "name": "Latrobe",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Leon": {
+        "name": "Leon",
+        "country": "Nicaragua",
+        "continent": "North America"
+    },
+    "Lewiston": {
+        "name": "Lewiston",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lexington": {
+        "name": "Lexington",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Liberal": {
+        "name": "Liberal",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lihue": {
+        "name": "Lihue",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lima": {
+        "name": "Lima",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "Lincoln": {
+        "name": "Lincoln",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lisbon": {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "continent": "Europe"
+    },
+    "Little Rock": {
+        "name": "Little Rock",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Long Island": {
+        "name": "Long Island",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Longview": {
+        "name": "Longview",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Loreto": {
+        "name": "Loreto",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Los Angeles": {
+        "name": "Los Angeles",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Los Mochis": {
+        "name": "Los Mochis",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Louisville": {
+        "name": "Louisville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lubbock": {
+        "name": "Lubbock",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lusaka": {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "continent": "Africa"
+    },
+    "Luxembourg City": {
+        "name": "Luxembourg City",
+        "country": "Luxembourg",
+        "continent": "Europe"
+    },
+    "Lynchburg": {
+        "name": "Lynchburg",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Lyon": {
+        "name": "Lyon",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Maceio": {
+        "name": "Maceio",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Madison": {
+        "name": "Madison",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Madrid": {
+        "name": "Madrid",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Mahe": {
+        "name": "Mahe",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Majuro": {
+        "name": "Majuro",
+        "country": "Marshall Islands",
+        "continent": "Oceania"
+    },
+    "Malaga": {
+        "name": "Malaga",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Male": {
+        "name": "Male",
+        "country": "Maldives",
+        "continent": "Asia"
+    },
+    "Malta": {
+        "name": "Malta",
+        "country": "Malta",
+        "continent": "Europe"
+    },
+    "Managua": {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "continent": "North America"
+    },
+    "Manaus": {
+        "name": "Manaus",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Manhattan": {
+        "name": "Manhattan",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Manila": {
+        "name": "Manila",
+        "country": "Philippines",
+        "continent": "Asia"
+    },
+    "Manzanillo": {
+        "name": "Manzanillo",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Marigot, Dominica": {
+        "name": "Marigot, Dominica",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Marion": {
+        "name": "Marion",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Marquette": {
+        "name": "Marquette",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Marrakech": {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "continent": "Africa"
+    },
+    "Marrakesh": {
+        "name": "Marrakesh",
+        "country": "Morocco",
+        "continent": "Africa"
+    },
+    "Marseille": {
+        "name": "Marseille",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Marsh Harbour, Bahamas": {
+        "name": "Marsh Harbour, Bahamas",
+        "country": "Bahamas",
+        "continent": "North America"
+    },
+    "Martha's Vineyard": {
+        "name": "Martha's Vineyard",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Mason City": {
+        "name": "Mason City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Matamoros": {
+        "name": "Matamoros",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Maui": {
+        "name": "Maui",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Mazatlan": {
+        "name": "Mazatlan",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Mcallen": {
+        "name": "Mcallen",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Medellin": {
+        "name": "Medellin",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Medford": {
+        "name": "Medford",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Melbourne": {
+        "name": "Melbourne",
+        "country": "Australia",
+        "continent": "Oceania"
+    },
+    "Memphis": {
+        "name": "Memphis",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Mendoza": {
+        "name": "Mendoza",
+        "country": "Argentina",
+        "continent": "South America"
+    },
+    "Meridian": {
+        "name": "Meridian",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Mexicali": {
+        "name": "Mexicali",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Mexico City": {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Miami": {
+        "name": "Miami",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Midland": {
+        "name": "Midland",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Milan": {
+        "name": "Milan",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Milwaukee": {
+        "name": "Milwaukee",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Minatitlan": {
+        "name": "Minatitlan",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Minneapolis": {
+        "name": "Minneapolis",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Minot": {
+        "name": "Minot",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Missoula": {
+        "name": "Missoula",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Moab": {
+        "name": "Moab",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Mobile": {
+        "name": "Mobile",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Moline": {
+        "name": "Moline",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Monroe": {
+        "name": "Monroe",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Montego Bay": {
+        "name": "Montego Bay",
+        "country": "Jamaica",
+        "continent": "North America"
+    },
+    "Monterey": {
+        "name": "Monterey",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Monterrey": {
+        "name": "Monterrey",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Montevideo": {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "continent": "South America"
+    },
+    "Montgomery": {
+        "name": "Montgomery",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Montreal": {
+        "name": "Montreal",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Montrose": {
+        "name": "Montrose",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Morelia": {
+        "name": "Morelia",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Mumbai": {
+        "name": "Mumbai",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Munich": {
+        "name": "Munich",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Muscat": {
+        "name": "Muscat",
+        "country": "Oman",
+        "continent": "Asia"
+    },
+    "Myrtle Beach": {
+        "name": "Myrtle Beach",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "M\u00e9rida": {
+        "name": "M\u00e9rida",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Nadi": {
+        "name": "Nadi",
+        "country": "Fiji",
+        "continent": "Oceania"
+    },
+    "Nagoya": {
+        "name": "Nagoya",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Nairobi": {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "continent": "Africa"
+    },
+    "Nantes": {
+        "name": "Nantes",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Nantucket": {
+        "name": "Nantucket",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Naples": {
+        "name": "Naples",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Nashville": {
+        "name": "Nashville",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Nassau": {
+        "name": "Nassau",
+        "country": "Bahamas",
+        "continent": "North America"
+    },
+    "New Bern": {
+        "name": "New Bern",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "New Haven": {
+        "name": "New Haven",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "New Orleans": {
+        "name": "New Orleans",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "New York": {
+        "name": "New York",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Newburgh": {
+        "name": "Newburgh",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Nice": {
+        "name": "Nice",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Norfolk": {
+        "name": "Norfolk",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "North Bend": {
+        "name": "North Bend",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "North Eleuthera, Bahamas": {
+        "name": "North Eleuthera, Bahamas",
+        "country": "Bahamas",
+        "continent": "North America"
+    },
+    "North Platte": {
+        "name": "North Platte",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Nuevo Laredo": {
+        "name": "Nuevo Laredo",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Nuremberg": {
+        "name": "Nuremberg",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Oakland": {
+        "name": "Oakland",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Oaxaca": {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Oceanside": {
+        "name": "Oceanside",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Ocho Rios": {
+        "name": "Ocho Rios",
+        "country": "Jamaica",
+        "continent": "North America"
+    },
+    "Okinawa": {
+        "name": "Okinawa",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Oklahoma City": {
+        "name": "Oklahoma City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Omaha": {
+        "name": "Omaha",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Ontario": {
+        "name": "Ontario",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Orange County": {
+        "name": "Orange County",
+        "country": "India",
+        "continent": "Asia"
+    },
+    "Oranjestad, Aruba": {
+        "name": "Oranjestad, Aruba",
+        "country": "Netherlands, Kingdom of the",
+        "continent": "Europe"
+    },
+    "Orlando": {
+        "name": "Orlando",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Osaka": {
+        "name": "Osaka",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Oslo": {
+        "name": "Oslo",
+        "country": "Norway",
+        "continent": "Europe"
+    },
+    "Ottawa": {
+        "name": "Ottawa",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Oviedo": {
+        "name": "Oviedo",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Owensboro": {
+        "name": "Owensboro",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Palermo": {
+        "name": "Palermo",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Palm Springs": {
+        "name": "Palm Springs",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Palma de Mallorca": {
+        "name": "Palma de Mallorca",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Palmerola": {
+        "name": "Palmerola",
+        "country": "Honduras",
+        "continent": "North America"
+    },
+    "Panama City": {
+        "name": "Panama City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Papeete, Tahiti": {
+        "name": "Papeete, Tahiti",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Paramaribo": {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "continent": "South America"
+    },
+    "Paris": {
+        "name": "Paris",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Pasco": {
+        "name": "Pasco",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Pensacola": {
+        "name": "Pensacola",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Peoria": {
+        "name": "Peoria",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Pereira": {
+        "name": "Pereira",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Perth": {
+        "name": "Perth",
+        "country": "Australia",
+        "continent": "Oceania"
+    },
+    "Philadelphia": {
+        "name": "Philadelphia",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Phnom Penh": {
+        "name": "Phnom Penh",
+        "country": "Cambodia",
+        "continent": "Asia"
+    },
+    "Phoenix": {
+        "name": "Phoenix",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Phuket": {
+        "name": "Phuket",
+        "country": "Thailand",
+        "continent": "Asia"
+    },
+    "Pittsburgh": {
+        "name": "Pittsburgh",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Piura": {
+        "name": "Piura",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "Pohnpei": {
+        "name": "Pohnpei",
+        "country": "Micronesia, Federated States of",
+        "continent": "Oceania"
+    },
+    "Pointe-a-Pitre, Guadeloupe": {
+        "name": "Pointe-a-Pitre, Guadeloupe",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Ponce": {
+        "name": "Ponce",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Ponta Delgada": {
+        "name": "Ponta Delgada",
+        "country": "Portugal",
+        "continent": "Europe"
+    },
+    "Port Arthur": {
+        "name": "Port Arthur",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Port-au-Prince": {
+        "name": "Port-au-Prince",
+        "country": "Haiti",
+        "continent": "North America"
+    },
+    "Port-of-Spain": {
+        "name": "Port-of-Spain",
+        "country": "Trinidad and Tobago",
+        "continent": "North America"
+    },
+    "Port-of-Spain, Trinidad": {
+        "name": "Port-of-Spain, Trinidad",
+        "country": "Trinidad and Tobago",
+        "continent": "North America"
+    },
+    "Porto": {
+        "name": "Porto",
+        "country": "Portugal",
+        "continent": "Europe"
+    },
+    "Porto Alegre": {
+        "name": "Porto Alegre",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Prague": {
+        "name": "Prague",
+        "country": "Czechia",
+        "continent": "Europe"
+    },
+    "Prescott": {
+        "name": "Prescott",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Presque Isle": {
+        "name": "Presque Isle",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Providence": {
+        "name": "Providence",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Provincetown": {
+        "name": "Provincetown",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Provo": {
+        "name": "Provo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Puebla": {
+        "name": "Puebla",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Puerto Escondido": {
+        "name": "Puerto Escondido",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Puerto Montt": {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "continent": "South America"
+    },
+    "Puerto Plata": {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic",
+        "continent": "North America"
+    },
+    "Puerto Vallarta": {
+        "name": "Puerto Vallarta",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Pullman": {
+        "name": "Pullman",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Punta Cana": {
+        "name": "Punta Cana",
+        "country": "Dominican Republic",
+        "continent": "North America"
+    },
+    "Queenstown": {
+        "name": "Queenstown",
+        "country": "New Zealand",
+        "continent": "Oceania"
+    },
+    "Queretaro": {
+        "name": "Queretaro",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Quito": {
+        "name": "Quito",
+        "country": "Ecuador",
+        "continent": "South America"
+    },
+    "Qu\u00e9bec": {
+        "name": "Qu\u00e9bec",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Raleigh": {
+        "name": "Raleigh",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Rapid City": {
+        "name": "Rapid City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Recife": {
+        "name": "Recife",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Redding": {
+        "name": "Redding",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Redmond": {
+        "name": "Redmond",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Reno": {
+        "name": "Reno",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Reykjavik": {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "continent": "Europe"
+    },
+    "Reynosa": {
+        "name": "Reynosa",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Richmond": {
+        "name": "Richmond",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Rio de Janeiro": {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Riverton": {
+        "name": "Riverton",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Riyadh": {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "continent": "Asia"
+    },
+    "Roanoke": {
+        "name": "Roanoke",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Roatan": {
+        "name": "Roatan",
+        "country": "Honduras",
+        "continent": "North America"
+    },
+    "Rochester": {
+        "name": "Rochester",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Rock Springs": {
+        "name": "Rock Springs",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Rome": {
+        "name": "Rome",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Rosario": {
+        "name": "Rosario",
+        "country": "Argentina",
+        "continent": "South America"
+    },
+    "Roswell": {
+        "name": "Roswell",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Sacramento": {
+        "name": "Sacramento",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Saginaw": {
+        "name": "Saginaw",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Saint Croix": {
+        "name": "Saint Croix",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Saint Louis": {
+        "name": "Saint Louis",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Saint Martin": {
+        "name": "Saint Martin",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Saipan": {
+        "name": "Saipan",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Salina": {
+        "name": "Salina",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Salt Lake City": {
+        "name": "Salt Lake City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Salvador": {
+        "name": "Salvador",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Salzburg": {
+        "name": "Salzburg",
+        "country": "Austria",
+        "continent": "Europe"
+    },
+    "San Andres Island": {
+        "name": "San Andres Island",
+        "country": "Philippines",
+        "continent": "Asia"
+    },
+    "San Angelo": {
+        "name": "San Angelo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "San Antonio": {
+        "name": "San Antonio",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "San Diego": {
+        "name": "San Diego",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "San Francisco": {
+        "name": "San Francisco",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "San Jose": {
+        "name": "San Jose",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "San Jose, CR": {
+        "name": "San Jose, CR",
+        "country": "Costa Rica",
+        "continent": "North America"
+    },
+    "San Juan": {
+        "name": "San Juan",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "San Luis Obispo": {
+        "name": "San Luis Obispo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "San Luis Potosi": {
+        "name": "San Luis Potosi",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "San Pedro Sula": {
+        "name": "San Pedro Sula",
+        "country": "Honduras",
+        "continent": "North America"
+    },
+    "San Salvador": {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "continent": "North America"
+    },
+    "San Sebastian": {
+        "name": "San Sebastian",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Santa Barbara": {
+        "name": "Santa Barbara",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Santa Clara, Cuba": {
+        "name": "Santa Clara, Cuba",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Santa Cruz": {
+        "name": "Santa Cruz",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Santa Fe": {
+        "name": "Santa Fe",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Santa Marta": {
+        "name": "Santa Marta",
+        "country": "Colombia",
+        "continent": "South America"
+    },
+    "Santa Rosa": {
+        "name": "Santa Rosa",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Santander": {
+        "name": "Santander",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Santiago": {
+        "name": "Santiago",
+        "country": "Costa Rica",
+        "continent": "North America"
+    },
+    "Santiago de Compostela": {
+        "name": "Santiago de Compostela",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Santiago de Cuba": {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "continent": "North America"
+    },
+    "Santiago de los Caballeros": {
+        "name": "Santiago de los Caballeros",
+        "country": "Dominican Republic",
+        "continent": "North America"
+    },
+    "Santo Domingo": {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "continent": "North America"
+    },
+    "Santorini": {
+        "name": "Santorini",
+        "country": "Greece",
+        "continent": "Europe"
+    },
+    "Sao Paulo": {
+        "name": "Sao Paulo",
+        "country": "Brazil",
+        "continent": "South America"
+    },
+    "Sapporo": {
+        "name": "Sapporo",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Sarajevo": {
+        "name": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "continent": "Europe"
+    },
+    "Sarasota": {
+        "name": "Sarasota",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Savannah": {
+        "name": "Savannah",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Scottsbluff": {
+        "name": "Scottsbluff",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Scranton": {
+        "name": "Scranton",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Seattle": {
+        "name": "Seattle",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Sendai": {
+        "name": "Sendai",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Sevilla": {
+        "name": "Sevilla",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Shanghai": {
+        "name": "Shanghai",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Shannon": {
+        "name": "Shannon",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Shenyang": {
+        "name": "Shenyang",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Sheridan": {
+        "name": "Sheridan",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Shreveport": {
+        "name": "Shreveport",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Singapore": {
+        "name": "Singapore",
+        "country": "Singapore",
+        "continent": "Asia"
+    },
+    "Sioux City": {
+        "name": "Sioux City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Sioux Falls": {
+        "name": "Sioux Falls",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Sofia": {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "continent": "Europe"
+    },
+    "South Bend": {
+        "name": "South Bend",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Split": {
+        "name": "Split",
+        "country": "Croatia",
+        "continent": "Europe"
+    },
+    "Spokane": {
+        "name": "Spokane",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Springfield": {
+        "name": "Springfield",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "St George": {
+        "name": "St George",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "St. George's, Grenada": {
+        "name": "St. George's, Grenada",
+        "country": "Grenada",
+        "continent": "North America"
+    },
+    "St. John's": {
+        "name": "St. John's",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "St. John\u2019s, Antigua": {
+        "name": "St. John\u2019s, Antigua",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "St. Maarten/St. Martin": {
+        "name": "St. Maarten/St. Martin",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "St. Thomas": {
+        "name": "St. Thomas",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "State College": {
+        "name": "State College",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Steamboat Springs": {
+        "name": "Steamboat Springs",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Stillwater": {
+        "name": "Stillwater",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Stockholm": {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "continent": "Europe"
+    },
+    "Stuttgart": {
+        "name": "Stuttgart",
+        "country": "Germany",
+        "continent": "Europe"
+    },
+    "Sun Valley": {
+        "name": "Sun Valley",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Sydney": {
+        "name": "Sydney",
+        "country": "Australia",
+        "continent": "Oceania"
+    },
+    "Syracuse": {
+        "name": "Syracuse",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Taipei": {
+        "name": "Taipei",
+        "country": "Taiwan, Province of China",
+        "continent": "Asia"
+    },
+    "Tallahassee": {
+        "name": "Tallahassee",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Tampa": {
+        "name": "Tampa",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Tampico": {
+        "name": "Tampico",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Tapachula": {
+        "name": "Tapachula",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Tarapoto": {
+        "name": "Tarapoto",
+        "country": "Peru",
+        "continent": "South America"
+    },
+    "Tegucigalpa": {
+        "name": "Tegucigalpa",
+        "country": "Honduras",
+        "continent": "North America"
+    },
+    "Tehran": {
+        "name": "Tehran",
+        "country": "Iran, Islamic Republic of",
+        "continent": "Asia"
+    },
+    "Tel Aviv": {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "continent": "Asia"
+    },
+    "Temuco": {
+        "name": "Temuco",
+        "country": "Chile",
+        "continent": "South America"
+    },
+    "Tenerife": {
+        "name": "Tenerife",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Tepic": {
+        "name": "Tepic",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Texarkana": {
+        "name": "Texarkana",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Thessaloniki": {
+        "name": "Thessaloniki",
+        "country": "Greece",
+        "continent": "Europe"
+    },
+    "Tijuana": {
+        "name": "Tijuana",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Tokyo": {
+        "name": "Tokyo",
+        "country": "Japan",
+        "continent": "Asia"
+    },
+    "Toledo": {
+        "name": "Toledo",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Toronto": {
+        "name": "Toronto",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Torreon": {
+        "name": "Torreon",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Toulouse": {
+        "name": "Toulouse",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Traverse City": {
+        "name": "Traverse City",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Trujillo": {
+        "name": "Trujillo",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Tucson": {
+        "name": "Tucson",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Tulsa": {
+        "name": "Tulsa",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Tulum": {
+        "name": "Tulum",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Turin": {
+        "name": "Turin",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Tuxtla Gutierrez": {
+        "name": "Tuxtla Gutierrez",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Tyler": {
+        "name": "Tyler",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Vail": {
+        "name": "Vail",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Valencia": {
+        "name": "Valencia",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Vancouver": {
+        "name": "Vancouver",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Venice": {
+        "name": "Venice",
+        "country": "Italy",
+        "continent": "Europe"
+    },
+    "Veracruz": {
+        "name": "Veracruz",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Vernal": {
+        "name": "Vernal",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Victoria": {
+        "name": "Victoria",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Vienna": {
+        "name": "Vienna",
+        "country": "Austria",
+        "continent": "Europe"
+    },
+    "Vieux Fort": {
+        "name": "Vieux Fort",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Vieux Fort, St. Lucia": {
+        "name": "Vieux Fort, St. Lucia",
+        "country": "France",
+        "continent": "Europe"
+    },
+    "Vigo": {
+        "name": "Vigo",
+        "country": "Spain",
+        "continent": "Europe"
+    },
+    "Villahermosa": {
+        "name": "Villahermosa",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Vilnius": {
+        "name": "Vilnius",
+        "country": "Lithuania",
+        "continent": "Europe"
+    },
+    "Waco": {
+        "name": "Waco",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Walla Walla": {
+        "name": "Walla Walla",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Warsaw": {
+        "name": "Warsaw",
+        "country": "Poland",
+        "continent": "Europe"
+    },
+    "Washington, D.C.": {
+        "name": "Washington, D.C.",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Waterloo": {
+        "name": "Waterloo",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Watertown": {
+        "name": "Watertown",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Wausau": {
+        "name": "Wausau",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Wellington": {
+        "name": "Wellington",
+        "country": "New Zealand",
+        "continent": "Oceania"
+    },
+    "Wenatchee": {
+        "name": "Wenatchee",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "West Palm Beach": {
+        "name": "West Palm Beach",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "West Yellowstone": {
+        "name": "West Yellowstone",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "White Plains": {
+        "name": "White Plains",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Wichita": {
+        "name": "Wichita",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Wichita Falls": {
+        "name": "Wichita Falls",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Williston": {
+        "name": "Williston",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Wilmington": {
+        "name": "Wilmington",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Winnipeg": {
+        "name": "Winnipeg",
+        "country": "Canada",
+        "continent": "North America"
+    },
+    "Worcester": {
+        "name": "Worcester",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Wuhan": {
+        "name": "Wuhan",
+        "country": "China",
+        "continent": "Asia"
+    },
+    "Yap": {
+        "name": "Yap",
+        "country": "Micronesia, Federated States of",
+        "continent": "Oceania"
+    },
+    "Yuma": {
+        "name": "Yuma",
+        "country": "United States of America",
+        "continent": "North America"
+    },
+    "Zacatecas": {
+        "name": "Zacatecas",
+        "country": "Mexico",
+        "continent": "North America"
+    },
+    "Zagreb": {
+        "name": "Zagreb",
+        "country": "Croatia",
+        "continent": "Europe"
+    },
+    "Zanzibar": {
+        "name": "Zanzibar",
+        "country": "Tanzania, United Republic of",
+        "continent": "Africa"
+    },
+    "Zurich": {
+        "name": "Zurich",
+        "country": "Switzerland",
+        "continent": "Europe"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "allFlights": [
+        {
+            "destination" : {
+                "city":"Philly",
+                "lat": 1452341524634324,
+                "long": 312412314,
+                "state": "PA"
+            },
+            "origin" : {
+                "country": "China",
+                "city": "Shanghai",
+                "lat": 231425463,
+                "long": 134256
+            },
+
+            "carriers": ["aa"]
+        }
+    ]
+}

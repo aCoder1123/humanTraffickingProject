@@ -1,0 +1,5530 @@
+{
+    "a coruna": {
+        "name": "A Coruna",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 43.3709703,
+        "lon": -8.3959425,
+        "state": "Galicia"
+    },
+    "abilene": {
+        "name": "Abilene",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.44645,
+        "lon": -99.7475905,
+        "state": "Texas"
+    },
+    "abu dhabi": {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "countryCode": "AE",
+        "continent": "Asia",
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "state": "Abu Dhabi Emirate"
+    },
+    "acapulco": {
+        "name": "Acapulco",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 16.8680495,
+        "lon": -99.8940182,
+        "state": "Guerrero"
+    },
+    "accra": {
+        "name": "Accra",
+        "country": "Ghana",
+        "countryCode": "GH",
+        "continent": "Africa",
+        "lat": 5.5571096,
+        "lon": -0.2012376,
+        "state": "Greater Accra Region"
+    },
+    "addis ababa": {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "countryCode": "ET",
+        "continent": "Africa",
+        "lat": 9.0107934,
+        "lon": 38.7612525,
+        "state": "Addis Ababa"
+    },
+    "adelaide": {
+        "name": "Adelaide",
+        "country": "Australia",
+        "countryCode": "AU",
+        "continent": "Oceania",
+        "lat": -34.9281805,
+        "lon": 138.5999312,
+        "state": "South Australia"
+    },
+    "agana, guam": {
+        "name": "Agana, Guam",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 13.4727446,
+        "lon": 144.75201822544284,
+        "state": "Guam"
+    },
+    "aguadilla": {
+        "name": "Aguadilla",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 18.4274359,
+        "lon": -67.1541343,
+        "state": "Puerto Rico"
+    },
+    "aguascalientes": {
+        "name": "Aguascalientes",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 21.880487,
+        "lon": -102.2967195,
+        "state": "Aguascalientes"
+    },
+    "ahmedabad": {
+        "name": "Ahmedabad",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 23.0216238,
+        "lon": 72.5797068,
+        "state": "Gujarat"
+    },
+    "akita": {
+        "name": "Akita",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 39.7197629,
+        "lon": 140.1034669
+    },
+    "akron": {
+        "name": "Akron",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.083064,
+        "lon": -81.518485,
+        "state": "Ohio"
+    },
+    "alakanuk": {
+        "name": "Alakanuk",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 62.6861788,
+        "lon": -164.6660172,
+        "state": "Alaska"
+    },
+    "albany": {
+        "name": "Albany",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.6511674,
+        "lon": -73.754968,
+        "state": "New York"
+    },
+    "albuquerque": {
+        "name": "Albuquerque",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.0841034,
+        "lon": -106.650985,
+        "state": "New Mexico"
+    },
+    "alexandria": {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "countryCode": "EG",
+        "continent": "Africa",
+        "lat": 31.199004,
+        "lon": 29.894378,
+        "state": "Alexandria"
+    },
+    "alicante": {
+        "name": "Alicante",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 38.3436365,
+        "lon": -0.4881708,
+        "state": "Valencian Community"
+    },
+    "allentown": {
+        "name": "Allentown",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.6022059,
+        "lon": -75.4712794,
+        "state": "Pennsylvania"
+    },
+    "amarillo": {
+        "name": "Amarillo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.2072185,
+        "lon": -101.833824,
+        "state": "Texas"
+    },
+    "amman": {
+        "name": "Amman",
+        "country": "Jordan",
+        "countryCode": "JO",
+        "continent": "Asia",
+        "lat": 31.9515694,
+        "lon": 35.9239625,
+        "state": "Amman"
+    },
+    "amsterdam": {
+        "name": "Amsterdam",
+        "country": "Netherlands, Kingdom of the",
+        "countryCode": "NL",
+        "continent": "Europe",
+        "lat": 52.3727598,
+        "lon": 4.8936041,
+        "state": "North Holland"
+    },
+    "anchorage": {
+        "name": "Anchorage",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 61.2163129,
+        "lon": -149.894852,
+        "state": "Alaska"
+    },
+    "antofagasta": {
+        "name": "Antofagasta",
+        "country": "Chile",
+        "countryCode": "CL",
+        "continent": "South America",
+        "lat": -23.6463741,
+        "lon": -70.3980033,
+        "state": "Antofagasta Region"
+    },
+    "appleton": {
+        "name": "Appleton",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.2613967,
+        "lon": -88.4069744,
+        "state": "Wisconsin"
+    },
+    "arcata": {
+        "name": "Arcata",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.866517,
+        "lon": -124.08284,
+        "state": "California"
+    },
+    "arequipa": {
+        "name": "Arequipa",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -16.3988667,
+        "lon": -71.5369607,
+        "state": "Arequipa"
+    },
+    "armenia": {
+        "name": "Armenia",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 4.536307,
+        "lon": -75.6723751,
+        "state": "Quind\u00edo"
+    },
+    "asahikawa": {
+        "name": "Asahikawa",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 43.770625,
+        "lon": 142.3649743
+    },
+    "asheville": {
+        "name": "Asheville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.6009498,
+        "lon": -82.5540161,
+        "state": "North Carolina"
+    },
+    "aspen": {
+        "name": "Aspen",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.1911128,
+        "lon": -106.8235606,
+        "state": "Colorado"
+    },
+    "athens": {
+        "name": "Athens",
+        "country": "Greece",
+        "countryCode": "GR",
+        "continent": "Europe",
+        "lat": 37.9839412,
+        "lon": 23.7283052,
+        "state": "Attica"
+    },
+    "atlanta": {
+        "name": "Atlanta",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.7489924,
+        "lon": -84.3902644,
+        "state": "Georgia"
+    },
+    "atlantic city": {
+        "name": "Atlantic City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.3642852,
+        "lon": -74.4229351,
+        "state": "New Jersey"
+    },
+    "auckland": {
+        "name": "Auckland",
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "continent": "Oceania",
+        "lat": -36.852095,
+        "lon": 174.7631803,
+        "state": "Auckland"
+    },
+    "augusta": {
+        "name": "Augusta",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.4709714,
+        "lon": -81.9748429,
+        "state": "Georgia"
+    },
+    "austin": {
+        "name": "Austin",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.2711286,
+        "lon": -97.7436995,
+        "state": "Texas"
+    },
+    "ayacucho": {
+        "name": "Ayacucho",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -13.1604269,
+        "lon": -74.2256973,
+        "state": "Ayacucho"
+    },
+    "ayers rock": {
+        "name": "Ayers Rock",
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "continent": "Oceania",
+        "lat": -39.39572805,
+        "lon": 175.74857121131885,
+        "state": "Manawatu-Whanganui"
+    },
+    "bakersfield": {
+        "name": "Bakersfield",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.3738712,
+        "lon": -119.0194639,
+        "state": "California"
+    },
+    "baltimore": {
+        "name": "Baltimore",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.2908816,
+        "lon": -76.610759,
+        "state": "Maryland"
+    },
+    "baltimore, md / washington dc area": {
+        "name": "Baltimore, MD / Washington DC AREA",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.2908816,
+        "lon": -76.610759,
+        "state": "Maryland"
+    },
+    "bangalore": {
+        "name": "Bangalore",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 12.9767936,
+        "lon": 77.590082,
+        "state": "Karnataka"
+    },
+    "bangkok": {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "continent": "Asia",
+        "lat": 13.7524938,
+        "lon": 100.4935089,
+        "state": "Bangkok"
+    },
+    "bangor": {
+        "name": "Bangor",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.8011821,
+        "lon": -68.7778138,
+        "state": "Maine"
+    },
+    "barcelona": {
+        "name": "Barcelona",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 41.3828939,
+        "lon": 2.1774322,
+        "state": "Catalonia"
+    },
+    "bari": {
+        "name": "Bari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 41.1257843,
+        "lon": 16.8620293,
+        "state": "Apulia"
+    },
+    "barranquilla": {
+        "name": "Barranquilla",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 10.9810761,
+        "lon": -74.7988827,
+        "state": "Atl\u00e1ntico"
+    },
+    "basel": {
+        "name": "Basel",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "continent": "Europe",
+        "lat": 47.5581077,
+        "lon": 7.5878261,
+        "state": "Basel-City"
+    },
+    "basseterre, st. kitts": {
+        "name": "Basseterre, St. Kitts",
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "continent": "North America",
+        "lat": 17.2960919,
+        "lon": -62.722301,
+        "state": "Saint Kitts"
+    },
+    "baton rouge": {
+        "name": "Baton Rouge",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.4507936,
+        "lon": -91.1391153,
+        "state": "Louisiana"
+    },
+    "beijing": {
+        "name": "Beijing",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 39.906217,
+        "lon": 116.3912757,
+        "state": "Beijing"
+    },
+    "beirut": {
+        "name": "Beirut",
+        "country": "Lebanon",
+        "countryCode": "LB",
+        "continent": "Asia",
+        "lat": 33.8959203,
+        "lon": 35.47843,
+        "state": "Beirut Governorate"
+    },
+    "belem": {
+        "name": "Belem",
+        "country": "Palestine, State of",
+        "countryCode": "PS",
+        "continent": "Asia",
+        "lat": 31.7043556,
+        "lon": 35.2061876
+    },
+    "belfast": {
+        "name": "Belfast",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 54.596391,
+        "lon": -5.9301829,
+        "state": "Northern Ireland"
+    },
+    "belgrade": {
+        "name": "Belgrade",
+        "country": "Serbia",
+        "countryCode": "RS",
+        "continent": "Europe",
+        "lat": 44.8178131,
+        "lon": 20.4568974,
+        "state": "Central Serbia"
+    },
+    "belize city": {
+        "name": "Belize City",
+        "country": "Belize",
+        "countryCode": "BZ",
+        "continent": "North America",
+        "lat": 17.5000543,
+        "lon": -88.2003115,
+        "state": "Belize District"
+    },
+    "bellingham": {
+        "name": "Bellingham",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 48.7544012,
+        "lon": -122.478836,
+        "state": "Washington"
+    },
+    "belo horizonte": {
+        "name": "Belo Horizonte",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -19.9227318,
+        "lon": -43.9450948,
+        "state": "Minas Gerais"
+    },
+    "bengaluru": {
+        "name": "Bengaluru",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 12.9767936,
+        "lon": 77.590082,
+        "state": "Karnataka"
+    },
+    "bergen": {
+        "name": "Bergen",
+        "country": "Norway",
+        "countryCode": "NO",
+        "continent": "Europe",
+        "lat": 60.3943055,
+        "lon": 5.3259192
+    },
+    "berlin": {
+        "name": "Berlin",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 52.5170365,
+        "lon": 13.3888599
+    },
+    "bilbao": {
+        "name": "Bilbao",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 43.2630018,
+        "lon": -2.9350039,
+        "state": "Autonomous Community of the Basque Country"
+    },
+    "billings": {
+        "name": "Billings",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 45.7874957,
+        "lon": -108.49607,
+        "state": "Montana"
+    },
+    "birmingham": {
+        "name": "Birmingham",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 52.4796992,
+        "lon": -1.9026911,
+        "state": "England"
+    },
+    "bismarck": {
+        "name": "Bismarck",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.808327,
+        "lon": -100.783739,
+        "state": "North Dakota"
+    },
+    "bloomington": {
+        "name": "Bloomington",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.1670396,
+        "lon": -86.5342881,
+        "state": "Indiana"
+    },
+    "bogota": {
+        "name": "Bogota",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 4.6534649,
+        "lon": -74.0836453
+    },
+    "boise": {
+        "name": "Boise",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.6166163,
+        "lon": -116.200886,
+        "state": "Idaho"
+    },
+    "bologna": {
+        "name": "Bologna",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 44.4938203,
+        "lon": 11.3426327,
+        "state": "Emilia-Romagna"
+    },
+    "bora bora": {
+        "name": "Bora Bora",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": -16.504346650000002,
+        "lon": -151.73668863927236,
+        "state": "French Polynesia"
+    },
+    "bordeaux": {
+        "name": "Bordeaux",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 44.841225,
+        "lon": -0.5800364,
+        "state": "Nouvelle-Aquitaine"
+    },
+    "boston": {
+        "name": "Boston",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.3554334,
+        "lon": -71.060511,
+        "state": "Massachusetts"
+    },
+    "bozeman": {
+        "name": "Bozeman",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 45.6794293,
+        "lon": -111.044047,
+        "state": "Montana"
+    },
+    "brasilia": {
+        "name": "Brasilia",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -15.7934036,
+        "lon": -47.8823172,
+        "state": "Federal District"
+    },
+    "bremen": {
+        "name": "Bremen",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 53.0758196,
+        "lon": 8.8071646,
+        "state": "Free Hanseatic City of Bremen"
+    },
+    "bridgetown": {
+        "name": "Bridgetown",
+        "country": "Barbados",
+        "countryCode": "BB",
+        "continent": "North America",
+        "lat": 13.0977832,
+        "lon": -59.6184184
+    },
+    "bridgetown, barbados": {
+        "name": "Bridgetown, Barbados",
+        "country": "Barbados",
+        "countryCode": "BB",
+        "continent": "North America",
+        "lat": 13.0977832,
+        "lon": -59.6184184
+    },
+    "brindisi": {
+        "name": "Brindisi",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 40.6395295,
+        "lon": 17.945526,
+        "state": "Apulia"
+    },
+    "brisbane": {
+        "name": "Brisbane",
+        "country": "Australia",
+        "countryCode": "AU",
+        "continent": "Oceania",
+        "lat": -27.4689682,
+        "lon": 153.0234991,
+        "state": "Queensland"
+    },
+    "brownsville": {
+        "name": "Brownsville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 25.9140277,
+        "lon": -97.4890879,
+        "state": "Texas"
+    },
+    "brussels": {
+        "name": "Brussels",
+        "country": "Belgium",
+        "countryCode": "BE",
+        "continent": "Europe",
+        "lat": 50.8465573,
+        "lon": 4.351697
+    },
+    "bucaramanga": {
+        "name": "Bucaramanga",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 7.1172633,
+        "lon": -73.1156668,
+        "state": "Santander"
+    },
+    "bucharest": {
+        "name": "Bucharest",
+        "country": "Romania",
+        "countryCode": "RO",
+        "continent": "Europe",
+        "lat": 44.4361414,
+        "lon": 26.1027202
+    },
+    "budapest": {
+        "name": "Budapest",
+        "country": "Hungary",
+        "countryCode": "HU",
+        "continent": "Europe",
+        "lat": 47.4979937,
+        "lon": 19.0403594
+    },
+    "buenos aires": {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "continent": "South America",
+        "lat": -34.6075682,
+        "lon": -58.4370894
+    },
+    "buffalo": {
+        "name": "Buffalo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.8867166,
+        "lon": -78.8783922,
+        "state": "New York"
+    },
+    "burbank": {
+        "name": "Burbank",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.1816482,
+        "lon": -118.3258554,
+        "state": "California"
+    },
+    "burlington": {
+        "name": "Burlington",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.4761601,
+        "lon": -73.212906,
+        "state": "Vermont"
+    },
+    "busan": {
+        "name": "Busan",
+        "country": "Korea, Republic of",
+        "countryCode": "KR",
+        "continent": "Asia",
+        "lat": 35.1799528,
+        "lon": 129.0752365
+    },
+    "cabo san lucas": {
+        "name": "Cabo San Lucas",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 22.8938884,
+        "lon": -109.9200604,
+        "state": "Lower California South"
+    },
+    "cairo": {
+        "name": "Cairo",
+        "country": "Egypt",
+        "countryCode": "EG",
+        "continent": "Africa",
+        "lat": 30.0443879,
+        "lon": 31.2357257,
+        "state": "Cairo"
+    },
+    "cajamarca": {
+        "name": "Cajamarca",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -7.1566682,
+        "lon": -78.517306,
+        "state": "Cajamarca"
+    },
+    "calama": {
+        "name": "Calama",
+        "country": "Chile",
+        "countryCode": "CL",
+        "continent": "South America",
+        "lat": -22.4623917,
+        "lon": -68.9272181,
+        "state": "Antofagasta Region"
+    },
+    "calgary": {
+        "name": "Calgary",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 51.0460954,
+        "lon": -114.065465,
+        "state": "Alberta"
+    },
+    "cali": {
+        "name": "Cali",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 3.4517923,
+        "lon": -76.5324943,
+        "state": "Valle del Cauca"
+    },
+    "campeche": {
+        "name": "Campeche",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 19.8381215,
+        "lon": -90.5198253,
+        "state": "Campeche"
+    },
+    "cancun": {
+        "name": "Cancun",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 21.1617854,
+        "lon": -86.8510468,
+        "state": "Quintana Roo"
+    },
+    "cap haitien": {
+        "name": "Cap Haitien",
+        "country": "Haiti",
+        "countryCode": "HT",
+        "continent": "North America",
+        "lat": 19.7595236,
+        "lon": -72.2008068,
+        "state": "D\u00e9partement du Nord"
+    },
+    "cape town": {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "continent": "Africa",
+        "lat": -33.928992,
+        "lon": 18.417396,
+        "state": "Western Cape"
+    },
+    "cartagena": {
+        "name": "Cartagena",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 10.4195841,
+        "lon": -75.5271224,
+        "state": "Bol\u00edvar"
+    },
+    "casablanca": {
+        "name": "Casablanca",
+        "country": "Morocco",
+        "countryCode": "MA",
+        "continent": "Africa",
+        "lat": 33.5950627,
+        "lon": -7.6187768
+    },
+    "casper": {
+        "name": "Casper",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.8501191,
+        "lon": -106.325138,
+        "state": "Wyoming"
+    },
+    "catania": {
+        "name": "Catania",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 37.5023612,
+        "lon": 15.0873718,
+        "state": "Sicily"
+    },
+    "cebu": {
+        "name": "Cebu",
+        "country": "Philippines",
+        "countryCode": "PH",
+        "continent": "Asia",
+        "lat": 10.2931062,
+        "lon": 123.9020773
+    },
+    "cedar rapids": {
+        "name": "Cedar Rapids",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.9758872,
+        "lon": -91.6704053,
+        "state": "Iowa"
+    },
+    "champaign": {
+        "name": "Champaign",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.1164841,
+        "lon": -88.2430932,
+        "state": "Illinois"
+    },
+    "charleston": {
+        "name": "Charleston",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.7876012,
+        "lon": -79.9402728,
+        "state": "South Carolina"
+    },
+    "charlotte": {
+        "name": "Charlotte",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.2272086,
+        "lon": -80.8430827,
+        "state": "North Carolina"
+    },
+    "charlottesville": {
+        "name": "Charlottesville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.029306,
+        "lon": -78.4766781,
+        "state": "Virginia"
+    },
+    "chattanooga": {
+        "name": "Chattanooga",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.0457219,
+        "lon": -85.3094883,
+        "state": "Tennessee"
+    },
+    "chengdu": {
+        "name": "Chengdu",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 30.6598628,
+        "lon": 104.0633717,
+        "state": "Sichuan"
+    },
+    "chennai": {
+        "name": "Chennai",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 13.0836939,
+        "lon": 80.270186,
+        "state": "Tamil Nadu"
+    },
+    "chetumal": {
+        "name": "Chetumal",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 18.5145865,
+        "lon": -88.3005528,
+        "state": "Quintana Roo"
+    },
+    "cheyenne": {
+        "name": "Cheyenne",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.139981,
+        "lon": -104.820246,
+        "state": "Wyoming"
+    },
+    "chicago": {
+        "name": "Chicago",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.8755616,
+        "lon": -87.6244212,
+        "state": "Illinois"
+    },
+    "chiclayo": {
+        "name": "Chiclayo",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -6.7716146,
+        "lon": -79.8387175,
+        "state": "Lambayeque"
+    },
+    "chihuahua": {
+        "name": "Chihuahua",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 28.6523808,
+        "lon": -106.0902046,
+        "state": "Chihuahua"
+    },
+    "christchurch": {
+        "name": "Christchurch",
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "continent": "Oceania",
+        "lat": -43.530955,
+        "lon": 172.6366455,
+        "state": "Canterbury"
+    },
+    "chuuk": {
+        "name": "Chuuk",
+        "country": "Micronesia, Federated States of",
+        "countryCode": "FM",
+        "continent": "Oceania",
+        "lat": 7.3885268,
+        "lon": 151.6578155,
+        "state": "Chuuk"
+    },
+    "cincinnati": {
+        "name": "Cincinnati",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.1014537,
+        "lon": -84.5124602,
+        "state": "Ohio"
+    },
+    "ciudad obregon": {
+        "name": "Ciudad Obregon",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 27.4846619,
+        "lon": -109.9337782,
+        "state": "Sonora"
+    },
+    "ciudad del carmen": {
+        "name": "Ciudad del Carmen",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 18.651739,
+        "lon": -91.81492,
+        "state": "Campeche"
+    },
+    "cleveland": {
+        "name": "Cleveland",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.4996574,
+        "lon": -81.6936772,
+        "state": "Ohio"
+    },
+    "cody": {
+        "name": "Cody",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.5263107,
+        "lon": -109.056392,
+        "state": "Wyoming"
+    },
+    "colima": {
+        "name": "Colima",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 19.2451909,
+        "lon": -103.720828,
+        "state": "Colima"
+    },
+    "college station": {
+        "name": "College Station",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.5955289,
+        "lon": -96.3071042,
+        "state": "Texas"
+    },
+    "colombo": {
+        "name": "Colombo",
+        "country": "Sri Lanka",
+        "countryCode": "LK",
+        "continent": "Asia",
+        "lat": 6.9387469,
+        "lon": 79.8541134,
+        "state": "Western Province"
+    },
+    "colorado springs": {
+        "name": "Colorado Springs",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.8339578,
+        "lon": -104.825348,
+        "state": "Colorado"
+    },
+    "columbia": {
+        "name": "Columbia",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.0007493,
+        "lon": -81.0343313,
+        "state": "South Carolina"
+    },
+    "columbus": {
+        "name": "Columbus",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.9622601,
+        "lon": -83.0007065,
+        "state": "Ohio"
+    },
+    "concepci\u00f3n": {
+        "name": "Concepci\u00f3n",
+        "country": "Chile",
+        "countryCode": "CL",
+        "continent": "South America",
+        "lat": -36.8270795,
+        "lon": -73.0502399,
+        "state": "Biob\u00edo Region"
+    },
+    "copenhagen": {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "countryCode": "DK",
+        "continent": "Europe",
+        "lat": 55.6867243,
+        "lon": 12.5700724,
+        "state": "Capital Region of Denmark"
+    },
+    "cordoba": {
+        "name": "Cordoba",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "continent": "South America",
+        "lat": -31.4173391,
+        "lon": -64.183319,
+        "state": "C\u00f3rdoba"
+    },
+    "corpus christi": {
+        "name": "Corpus Christi",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 27.7635302,
+        "lon": -97.4033191,
+        "state": "Texas"
+    },
+    "cozumel": {
+        "name": "Cozumel",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 20.5014305,
+        "lon": -86.9435851,
+        "state": "Quintana Roo"
+    },
+    "culiacan": {
+        "name": "Culiacan",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 24.7978965,
+        "lon": -107.393395,
+        "state": "Sinaloa"
+    },
+    "curacao": {
+        "name": "Curacao",
+        "country": "Netherlands, Kingdom of the",
+        "countryCode": "NL",
+        "continent": "Europe",
+        "lat": 12.21339425,
+        "lon": -69.0408499890865
+    },
+    "curitiba": {
+        "name": "Curitiba",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -25.4295963,
+        "lon": -49.2712724,
+        "state": "Paran\u00e1"
+    },
+    "cusco": {
+        "name": "Cusco",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -13.5170887,
+        "lon": -71.9785356,
+        "state": "Cusco"
+    },
+    "c\u00facuta": {
+        "name": "C\u00facuta",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 7.8971458,
+        "lon": -72.5080387,
+        "state": "Norte de Santander"
+    },
+    "dakar": {
+        "name": "Dakar",
+        "country": "Senegal",
+        "countryCode": "SN",
+        "continent": "Africa",
+        "lat": 14.693425,
+        "lon": -17.447938,
+        "state": "Dakar Region"
+    },
+    "dallas": {
+        "name": "Dallas",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.7762719,
+        "lon": -96.7968559,
+        "state": "Texas"
+    },
+    "dammam": {
+        "name": "Dammam",
+        "country": "Saudi Arabia",
+        "countryCode": "SA",
+        "continent": "Asia",
+        "lat": 26.4367824,
+        "lon": 50.1039991,
+        "state": "Eastern Province"
+    },
+    "dar es salaam": {
+        "name": "Dar es Salaam",
+        "country": "Tanzania, United Republic of",
+        "countryCode": "TZ",
+        "continent": "Africa",
+        "lat": -6.8160837,
+        "lon": 39.2803583
+    },
+    "dayton": {
+        "name": "Dayton",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.7589478,
+        "lon": -84.1916069,
+        "state": "Ohio"
+    },
+    "daytona beach": {
+        "name": "Daytona Beach",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 29.2108147,
+        "lon": -81.0228331,
+        "state": "Florida"
+    },
+    "decatur": {
+        "name": "Decatur",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.8454163,
+        "lon": -88.9524151,
+        "state": "Illinois"
+    },
+    "delhi": {
+        "name": "Delhi",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 28.6517178,
+        "lon": 77.2219388,
+        "state": "Delhi"
+    },
+    "denver": {
+        "name": "Denver",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.7392364,
+        "lon": -104.984862,
+        "state": "Colorado"
+    },
+    "des moines": {
+        "name": "Des Moines",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.5910323,
+        "lon": -93.6046655,
+        "state": "Iowa"
+    },
+    "destin": {
+        "name": "Destin",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.3935337,
+        "lon": -86.4957834,
+        "state": "Florida"
+    },
+    "detroit": {
+        "name": "Detroit",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.3315509,
+        "lon": -83.0466403,
+        "state": "Michigan"
+    },
+    "devils lake": {
+        "name": "Devils Lake",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 48.112779,
+        "lon": -98.86512,
+        "state": "North Dakota"
+    },
+    "dhaka": {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "continent": "Asia",
+        "lat": 23.7644025,
+        "lon": 90.389015,
+        "state": "Dhaka Division"
+    },
+    "dickinson": {
+        "name": "Dickinson",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.8791756,
+        "lon": -102.7896242,
+        "state": "North Dakota"
+    },
+    "dodge city": {
+        "name": "Dodge City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.7527982,
+        "lon": -100.0170787,
+        "state": "Kansas"
+    },
+    "doha": {
+        "name": "Doha",
+        "country": "Qatar",
+        "countryCode": "QA",
+        "continent": "Asia",
+        "lat": 25.2856329,
+        "lon": 51.5264162
+    },
+    "dubai": {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "countryCode": "AE",
+        "continent": "Asia",
+        "lat": 25.2653471,
+        "lon": 55.2924914,
+        "state": "Dubai"
+    },
+    "dublin": {
+        "name": "Dublin",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "continent": "Europe",
+        "lat": 53.3498006,
+        "lon": -6.2602964
+    },
+    "dubrovnik": {
+        "name": "Dubrovnik",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "continent": "Europe",
+        "lat": 42.64873625,
+        "lon": 18.094680152605108
+    },
+    "duluth": {
+        "name": "Duluth",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.7729322,
+        "lon": -92.1251218,
+        "state": "Minnesota"
+    },
+    "durango": {
+        "name": "Durango",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 43.1707065,
+        "lon": -2.6334897,
+        "state": "Autonomous Community of the Basque Country"
+    },
+    "dusseldorf": {
+        "name": "Dusseldorf",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 51.2254018,
+        "lon": 6.7763137,
+        "state": "North Rhine-Westphalia"
+    },
+    "edinburgh": {
+        "name": "Edinburgh",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 55.9533456,
+        "lon": -3.1883749,
+        "state": "Scotland"
+    },
+    "edmonton": {
+        "name": "Edmonton",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 53.5462055,
+        "lon": -113.491241,
+        "state": "Alberta"
+    },
+    "el paso": {
+        "name": "El Paso",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 31.7865623,
+        "lon": -106.441207,
+        "state": "Texas"
+    },
+    "entebbe": {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "countryCode": "UG",
+        "continent": "Africa",
+        "lat": 0.0611715,
+        "lon": 32.4698564,
+        "state": "Wakiso"
+    },
+    "erie": {
+        "name": "Erie",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.1294712,
+        "lon": -80.0852695,
+        "state": "Pennsylvania"
+    },
+    "eugene": {
+        "name": "Eugene",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.0505054,
+        "lon": -123.0950506,
+        "state": "Oregon"
+    },
+    "evansville": {
+        "name": "Evansville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.9747645,
+        "lon": -87.5558483,
+        "state": "Indiana"
+    },
+    "fairbanks": {
+        "name": "Fairbanks",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 64.837845,
+        "lon": -147.716675,
+        "state": "Alaska"
+    },
+    "fargo": {
+        "name": "Fargo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.877229,
+        "lon": -96.789821,
+        "state": "North Dakota"
+    },
+    "faro": {
+        "name": "Faro",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "continent": "Europe",
+        "lat": 37.0162727,
+        "lon": -7.9351771
+    },
+    "fayetteville": {
+        "name": "Fayetteville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.0625843,
+        "lon": -94.1574328,
+        "state": "Arkansas"
+    },
+    "flagstaff": {
+        "name": "Flagstaff",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.1987522,
+        "lon": -111.6518229,
+        "state": "Arizona"
+    },
+    "flint": {
+        "name": "Flint",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.0161693,
+        "lon": -83.6900211,
+        "state": "Michigan"
+    },
+    "florence": {
+        "name": "Florence",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 43.7698712,
+        "lon": 11.2555757,
+        "state": "Tuscany"
+    },
+    "florianopolis": {
+        "name": "Florianopolis",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -27.5973002,
+        "lon": -48.5496098,
+        "state": "Santa Catarina"
+    },
+    "fort collins": {
+        "name": "Fort Collins",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.5508527,
+        "lon": -105.0668085,
+        "state": "Colorado"
+    },
+    "fort dodge": {
+        "name": "Fort Dodge",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.5044017,
+        "lon": -94.1910044,
+        "state": "Iowa"
+    },
+    "fort lauderdale": {
+        "name": "Fort Lauderdale",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 26.1223084,
+        "lon": -80.1433786,
+        "state": "Florida"
+    },
+    "fort myers": {
+        "name": "Fort Myers",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 26.640628,
+        "lon": -81.8723084,
+        "state": "Florida"
+    },
+    "fort smith": {
+        "name": "Fort Smith",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.3784666,
+        "lon": -94.3996456,
+        "state": "Arkansas"
+    },
+    "fort-de-france, martinique": {
+        "name": "Fort-De-France, Martinique",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 14.6027962,
+        "lon": -61.0676724,
+        "state": "Martinique"
+    },
+    "fortaleza": {
+        "name": "Fortaleza",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -3.7304512,
+        "lon": -38.5217989,
+        "state": "Cear\u00e1"
+    },
+    "frankfurt": {
+        "name": "Frankfurt",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 50.1106444,
+        "lon": 8.6820917,
+        "state": "Hesse"
+    },
+    "freeport, bahamas": {
+        "name": "Freeport, Bahamas",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.2966861,
+        "lon": -89.6212271,
+        "state": "Illinois"
+    },
+    "fresno": {
+        "name": "Fresno",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.7394421,
+        "lon": -119.7848307,
+        "state": "California"
+    },
+    "ft wayne": {
+        "name": "Ft Wayne",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.0799898,
+        "lon": -85.1386015,
+        "state": "Indiana"
+    },
+    "fukuoka": {
+        "name": "Fukuoka",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 33.5898988,
+        "lon": 130.4017509
+    },
+    "gainesville": {
+        "name": "Gainesville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 29.6519684,
+        "lon": -82.3249846,
+        "state": "Florida"
+    },
+    "garden city": {
+        "name": "Garden City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.9716898,
+        "lon": -100.8726618,
+        "state": "Kansas"
+    },
+    "geneva": {
+        "name": "Geneva",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "continent": "Europe",
+        "lat": 46.2017559,
+        "lon": 6.1466014,
+        "state": "Geneva"
+    },
+    "genoa": {
+        "name": "Genoa",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 44.40726,
+        "lon": 8.9338624,
+        "state": "Liguria"
+    },
+    "george town, bahamas": {
+        "name": "George Town, Bahamas",
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "continent": "Asia",
+        "lat": 5.4141619,
+        "lon": 100.3287352,
+        "state": "Penang"
+    },
+    "georgetown": {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "countryCode": "GY",
+        "continent": "South America",
+        "lat": 6.8137426,
+        "lon": -58.1624465,
+        "state": "Demerara-Mahaica"
+    },
+    "gillette": {
+        "name": "Gillette",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.290635,
+        "lon": -105.501876,
+        "state": "Wyoming"
+    },
+    "glasgow": {
+        "name": "Glasgow",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 55.8609825,
+        "lon": -4.2488787,
+        "state": "Scotland"
+    },
+    "gothenburg": {
+        "name": "Gothenburg",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "continent": "Europe",
+        "lat": 57.7072326,
+        "lon": 11.9670171
+    },
+    "governor\u2019s harbour": {
+        "name": "Governor\u2019s Harbour",
+        "country": "Bahamas",
+        "countryCode": "BS",
+        "continent": "North America",
+        "lat": 25.1934774,
+        "lon": -76.245336
+    },
+    "gran canaria": {
+        "name": "Gran Canaria",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 27.9580004,
+        "lon": -15.6062305376665
+    },
+    "granada": {
+        "name": "Granada",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 37.1734995,
+        "lon": -3.5995337,
+        "state": "Andalusia"
+    },
+    "grand canyon": {
+        "name": "Grand Canyon",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.0545151,
+        "lon": -112.1406308,
+        "state": "Arizona"
+    },
+    "grand island": {
+        "name": "Grand Island",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.924271,
+        "lon": -98.338685,
+        "state": "Nebraska"
+    },
+    "grand junction": {
+        "name": "Grand Junction",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.063956,
+        "lon": -108.5507317,
+        "state": "Colorado"
+    },
+    "grand rapids": {
+        "name": "Grand Rapids",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.9632405,
+        "lon": -85.6678639,
+        "state": "Michigan"
+    },
+    "great falls": {
+        "name": "Great Falls",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 47.5048851,
+        "lon": -111.29189,
+        "state": "Montana"
+    },
+    "green bay": {
+        "name": "Green Bay",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.5126379,
+        "lon": -88.0125794,
+        "state": "Wisconsin"
+    },
+    "greensboro": {
+        "name": "Greensboro",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.0726355,
+        "lon": -79.7919754,
+        "state": "North Carolina"
+    },
+    "greenville": {
+        "name": "Greenville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.851354,
+        "lon": -82.3984882,
+        "state": "South Carolina"
+    },
+    "guadalajara": {
+        "name": "Guadalajara",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 20.6720375,
+        "lon": -103.338396,
+        "state": "Jalisco"
+    },
+    "guangzhou": {
+        "name": "Guangzhou",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 23.1301964,
+        "lon": 113.2592945,
+        "state": "Guangdong Province"
+    },
+    "guatemala city": {
+        "name": "Guatemala City",
+        "country": "Guatemala",
+        "countryCode": "GT",
+        "continent": "North America",
+        "lat": 14.6222328,
+        "lon": -90.5185188,
+        "state": "Guatemala Department"
+    },
+    "guayaquil": {
+        "name": "Guayaquil",
+        "country": "Ecuador",
+        "countryCode": "EC",
+        "continent": "South America",
+        "lat": -2.1900563,
+        "lon": -79.8868741,
+        "state": "Guayas"
+    },
+    "gulfport": {
+        "name": "Gulfport",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.3674198,
+        "lon": -89.0928155,
+        "state": "Mississippi"
+    },
+    "gunnison": {
+        "name": "Gunnison",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.5458246,
+        "lon": -106.9253207,
+        "state": "Colorado"
+    },
+    "hakodate": {
+        "name": "Hakodate",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 41.768793,
+        "lon": 140.729008
+    },
+    "halifax": {
+        "name": "Halifax",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 44.648618,
+        "lon": -63.5859487,
+        "state": "Nova Scotia"
+    },
+    "hamburg": {
+        "name": "Hamburg",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 53.550341,
+        "lon": 10.000654
+    },
+    "hamilton": {
+        "name": "Hamilton",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 43.2560802,
+        "lon": -79.8728583,
+        "state": "Ontario"
+    },
+    "hamilton, bermuda": {
+        "name": "Hamilton, Bermuda",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 43.2560802,
+        "lon": -79.8728583,
+        "state": "Ontario"
+    },
+    "hancock": {
+        "name": "Hancock",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.3900707,
+        "lon": -95.3625169,
+        "state": "Iowa"
+    },
+    "hanover": {
+        "name": "Hanover",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 52.3744779,
+        "lon": 9.7385532,
+        "state": "Lower Saxony"
+    },
+    "harare": {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "countryCode": "ZW",
+        "continent": "Africa",
+        "lat": -17.831773,
+        "lon": 31.045686,
+        "state": "Harare"
+    },
+    "harlingen": {
+        "name": "Harlingen",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 26.1907543,
+        "lon": -97.6960599,
+        "state": "Texas"
+    },
+    "harrisburg": {
+        "name": "Harrisburg",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.2663107,
+        "lon": -76.8861122,
+        "state": "Pennsylvania"
+    },
+    "hartford": {
+        "name": "Hartford",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.764582,
+        "lon": -72.6908547,
+        "state": "Connecticut"
+    },
+    "hattiesburg": {
+        "name": "Hattiesburg",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 31.3271189,
+        "lon": -89.2903392,
+        "state": "Mississippi"
+    },
+    "havana": {
+        "name": "Havana",
+        "country": "Cuba",
+        "countryCode": "CU",
+        "continent": "North America",
+        "lat": 23.135305,
+        "lon": -82.3589631,
+        "state": "Havana"
+    },
+    "hays": {
+        "name": "Hays",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.1227118,
+        "lon": -97.8722281,
+        "state": "Texas"
+    },
+    "helena": {
+        "name": "Helena",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.5927425,
+        "lon": -112.036277,
+        "state": "Montana"
+    },
+    "helsinki": {
+        "name": "Helsinki",
+        "country": "Finland",
+        "countryCode": "FI",
+        "continent": "Europe",
+        "lat": 60.1674881,
+        "lon": 24.9427473
+    },
+    "hermosillo": {
+        "name": "Hermosillo",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 29.0948207,
+        "lon": -110.9692202,
+        "state": "Sonora"
+    },
+    "hilo": {
+        "name": "Hilo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 19.7073734,
+        "lon": -155.08158,
+        "state": "Hawaii"
+    },
+    "hilton head island": {
+        "name": "Hilton Head Island",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.1618488,
+        "lon": -80.7512616,
+        "state": "South Carolina"
+    },
+    "hobbs": {
+        "name": "Hobbs",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.707667,
+        "lon": -103.1311314,
+        "state": "New Mexico"
+    },
+    "hong kong": {
+        "name": "Hong Kong",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 22.2793278,
+        "lon": 114.1628131,
+        "state": "Hong Kong"
+    },
+    "honolulu": {
+        "name": "Honolulu",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 21.304547,
+        "lon": -157.855676,
+        "state": "Hawaii"
+    },
+    "houston": {
+        "name": "Houston",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 29.7589382,
+        "lon": -95.3676974,
+        "state": "Texas"
+    },
+    "huatulco": {
+        "name": "Huatulco",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 15.8339247,
+        "lon": -96.322325
+    },
+    "huntington": {
+        "name": "Huntington",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.4192496,
+        "lon": -82.445154,
+        "state": "West Virginia"
+    },
+    "huntsville": {
+        "name": "Huntsville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.729847,
+        "lon": -86.5859011,
+        "state": "Alabama"
+    },
+    "hyannis": {
+        "name": "Hyannis",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.6534847,
+        "lon": -70.2823732,
+        "state": "Massachusetts"
+    },
+    "hyderabad": {
+        "name": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 17.360589,
+        "lon": 78.4740613,
+        "state": "Telangana"
+    },
+    "ibiza": {
+        "name": "Ibiza",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 38.974390099999994,
+        "lon": 1.4197463178515335,
+        "state": "Balearic Islands"
+    },
+    "idaho falls": {
+        "name": "Idaho Falls",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.4887907,
+        "lon": -112.03628,
+        "state": "Idaho"
+    },
+    "indianapolis": {
+        "name": "Indianapolis",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.7683331,
+        "lon": -86.1583502,
+        "state": "Indiana"
+    },
+    "iquique": {
+        "name": "Iquique",
+        "country": "Chile",
+        "countryCode": "CL",
+        "continent": "South America",
+        "lat": -20.2140657,
+        "lon": -70.1524646,
+        "state": "Tarapac\u00e1 Region"
+    },
+    "islamabad": {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "continent": "Asia",
+        "lat": 33.6938118,
+        "lon": 73.0651511,
+        "state": "Islamabad Capital Territory"
+    },
+    "ithaca": {
+        "name": "Ithaca",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.4396039,
+        "lon": -76.4968019,
+        "state": "New York"
+    },
+    "ixtapa-zihuatanejo": {
+        "name": "Ixtapa-Zihuatanejo",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 17.6670868,
+        "lon": -101.5906237,
+        "state": "Guerrero"
+    },
+    "jackson": {
+        "name": "Jackson",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.3086744,
+        "lon": -90.1983063,
+        "state": "Mississippi"
+    },
+    "jackson hole": {
+        "name": "Jackson Hole",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 40.4552338,
+        "lon": 115.75989409347903,
+        "state": "Hebei"
+    },
+    "jacksonville": {
+        "name": "Jacksonville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.3321838,
+        "lon": -81.655651,
+        "state": "Florida"
+    },
+    "jakarta": {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "continent": "Asia",
+        "lat": -6.1753942,
+        "lon": 106.827183
+    },
+    "jamestown": {
+        "name": "Jamestown",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.2104434,
+        "lon": -76.7738928,
+        "state": "Virginia"
+    },
+    "jeddah": {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "countryCode": "SA",
+        "continent": "Asia",
+        "lat": 21.5810088,
+        "lon": 39.1653612,
+        "state": "Makkah Region"
+    },
+    "johannesburg": {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "continent": "Africa",
+        "lat": -26.205,
+        "lon": 28.049722,
+        "state": "Gauteng"
+    },
+    "johnson city": {
+        "name": "Johnson City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.3134398,
+        "lon": -82.3534728,
+        "state": "Tennessee"
+    },
+    "joplin": {
+        "name": "Joplin",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.08418,
+        "lon": -94.51323,
+        "state": "Missouri"
+    },
+    "juarez": {
+        "name": "Juarez",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 20.7045354,
+        "lon": -101.35827,
+        "state": "Guanajuato"
+    },
+    "juneau": {
+        "name": "Juneau",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 58.3019496,
+        "lon": -134.419734,
+        "state": "Alaska"
+    },
+    "kalamazoo": {
+        "name": "Kalamazoo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.291707,
+        "lon": -85.5872286,
+        "state": "Michigan"
+    },
+    "kalispell": {
+        "name": "Kalispell",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 48.202158,
+        "lon": -114.315321,
+        "state": "Montana"
+    },
+    "kansas city": {
+        "name": "Kansas City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.100105,
+        "lon": -94.5781416,
+        "state": "Missouri"
+    },
+    "karachi": {
+        "name": "Karachi",
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "continent": "Asia",
+        "lat": 24.8546842,
+        "lon": 67.0207055,
+        "state": "Sindh"
+    },
+    "kathmandu": {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "countryCode": "NP",
+        "continent": "Asia",
+        "lat": 27.708317,
+        "lon": 85.3205817
+    },
+    "kauai": {
+        "name": "Kauai",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 22.050466550000003,
+        "lon": -159.55876775017003,
+        "state": "Hawaii"
+    },
+    "kelowna": {
+        "name": "Kelowna",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 49.8879177,
+        "lon": -119.495902,
+        "state": "British Columbia"
+    },
+    "ketchikan": {
+        "name": "Ketchikan",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 55.3430696,
+        "lon": -131.6466819,
+        "state": "Alaska"
+    },
+    "key west": {
+        "name": "Key West",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 24.5625566,
+        "lon": -81.7724368,
+        "state": "Florida"
+    },
+    "kilimanjaro": {
+        "name": "Kilimanjaro",
+        "country": "Tanzania, United Republic of",
+        "countryCode": "TZ",
+        "continent": "Africa",
+        "lat": -3.3376921,
+        "lon": 37.3267921,
+        "state": "Kilimanjaro"
+    },
+    "killeen": {
+        "name": "Killeen",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 31.1171441,
+        "lon": -97.727796,
+        "state": "Texas"
+    },
+    "kingston": {
+        "name": "Kingston",
+        "country": "Jamaica",
+        "countryCode": "JM",
+        "continent": "North America",
+        "lat": 17.9712148,
+        "lon": -76.7928128
+    },
+    "kirksville": {
+        "name": "Kirksville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.1948848,
+        "lon": -92.5833939,
+        "state": "Missouri"
+    },
+    "knoxville": {
+        "name": "Knoxville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.9603948,
+        "lon": -83.9210261,
+        "state": "Tennessee"
+    },
+    "kochi": {
+        "name": "Kochi",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 9.931308,
+        "lon": 76.2674136,
+        "state": "Kerala"
+    },
+    "kolkata": {
+        "name": "Kolkata",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 22.5414185,
+        "lon": 88.35769124388872,
+        "state": "West Bengal"
+    },
+    "koror": {
+        "name": "Koror",
+        "country": "Palau",
+        "countryCode": "PW",
+        "continent": "Oceania",
+        "lat": 7.343275,
+        "lon": 134.4766767
+    },
+    "kosrae": {
+        "name": "Kosrae",
+        "country": "Micronesia, Federated States of",
+        "countryCode": "FM",
+        "continent": "Oceania",
+        "lat": 5.314262149999999,
+        "lon": 162.9811154168676,
+        "state": "Kosrae"
+    },
+    "krakow": {
+        "name": "Krakow",
+        "country": "Poland",
+        "countryCode": "PL",
+        "continent": "Europe",
+        "lat": 50.0619474,
+        "lon": 19.9368564,
+        "state": "Lesser Poland Voivodeship"
+    },
+    "kralendijk": {
+        "name": "Kralendijk",
+        "country": "Netherlands, Kingdom of the",
+        "countryCode": "NL",
+        "continent": "Europe",
+        "lat": 12.1472869,
+        "lon": -68.2740206
+    },
+    "kralendijk, bonaire": {
+        "name": "Kralendijk, Bonaire",
+        "country": "Netherlands, Kingdom of the",
+        "countryCode": "NL",
+        "continent": "Europe",
+        "lat": 12.1472869,
+        "lon": -68.2740206
+    },
+    "kuala lumpur": {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "continent": "Asia",
+        "lat": 3.1516964,
+        "lon": 101.6942371
+    },
+    "kwajalein": {
+        "name": "Kwajalein",
+        "country": "Marshall Islands",
+        "countryCode": "MH",
+        "continent": "Oceania",
+        "lat": 8.7306189,
+        "lon": 167.73928221221212
+    },
+    "la crosse": {
+        "name": "La Crosse",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.8122836,
+        "lon": -91.2514355,
+        "state": "Wisconsin"
+    },
+    "la paz": {
+        "name": "La Paz",
+        "country": "Bolivia, Plurinational State of",
+        "countryCode": "BO",
+        "continent": "South America",
+        "lat": -16.4955455,
+        "lon": -68.1336229,
+        "state": "La Paz"
+    },
+    "la romana": {
+        "name": "La Romana",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 38.3678386,
+        "lon": -0.8961147,
+        "state": "Valencian Community"
+    },
+    "lafayette": {
+        "name": "Lafayette",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.2043259,
+        "lon": -92.0298813,
+        "state": "Louisiana"
+    },
+    "lagos": {
+        "name": "Lagos",
+        "country": "Nigeria",
+        "countryCode": "NG",
+        "continent": "Africa",
+        "lat": 6.4550575,
+        "lon": 3.3941795,
+        "state": "Lagos State"
+    },
+    "lahore": {
+        "name": "Lahore",
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "continent": "Asia",
+        "lat": 31.5656822,
+        "lon": 74.3141829,
+        "state": "Punjab"
+    },
+    "lake charles": {
+        "name": "Lake Charles",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.2072293,
+        "lon": -93.2061609,
+        "state": "Louisiana"
+    },
+    "lansing": {
+        "name": "Lansing",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.7337712,
+        "lon": -84.5553805,
+        "state": "Michigan"
+    },
+    "laramie": {
+        "name": "Laramie",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.311367,
+        "lon": -105.591101,
+        "state": "Wyoming"
+    },
+    "laredo": {
+        "name": "Laredo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 27.5236998,
+        "lon": -99.497352,
+        "state": "Texas"
+    },
+    "larnaka": {
+        "name": "Larnaka",
+        "country": "Cyprus",
+        "countryCode": "CY",
+        "continent": "Europe",
+        "lat": 34.9236095,
+        "lon": 33.6236184,
+        "state": "South Cyprus"
+    },
+    "las vegas": {
+        "name": "Las Vegas",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.1672559,
+        "lon": -115.148516,
+        "state": "Nevada"
+    },
+    "latrobe": {
+        "name": "Latrobe",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.317287,
+        "lon": -79.3840301,
+        "state": "Pennsylvania"
+    },
+    "leeds": {
+        "name": "Leeds",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 53.7974185,
+        "lon": -1.5437941,
+        "state": "England"
+    },
+    "leon": {
+        "name": "Leon",
+        "country": "Nicaragua",
+        "countryCode": "NI",
+        "continent": "North America",
+        "lat": 12.4345376,
+        "lon": -86.8773498,
+        "state": "Leon"
+    },
+    "lewiston": {
+        "name": "Lewiston",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.4195913,
+        "lon": -117.0216144,
+        "state": "Idaho"
+    },
+    "lexington": {
+        "name": "Lexington",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.0464066,
+        "lon": -84.4970393,
+        "state": "Kentucky"
+    },
+    "liberal": {
+        "name": "Liberal",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.0430812,
+        "lon": -100.920999,
+        "state": "Kansas"
+    },
+    "lihue": {
+        "name": "Lihue",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 21.9769622,
+        "lon": -159.3687721,
+        "state": "Hawaii"
+    },
+    "lima": {
+        "name": "Lima",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -12.0621065,
+        "lon": -77.0365256,
+        "state": "Lima"
+    },
+    "lincoln": {
+        "name": "Lincoln",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.8088861,
+        "lon": -96.7077751,
+        "state": "Nebraska"
+    },
+    "lisbon": {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "continent": "Europe",
+        "lat": 38.7077507,
+        "lon": -9.1365919
+    },
+    "little rock": {
+        "name": "Little Rock",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.7465071,
+        "lon": -92.2896267,
+        "state": "Arkansas"
+    },
+    "london": {
+        "name": "London",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 51.5073219,
+        "lon": -0.1276474,
+        "state": "England"
+    },
+    "long island": {
+        "name": "Long Island",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.85149705,
+        "lon": -73.0994258107431,
+        "state": "New York"
+    },
+    "longview": {
+        "name": "Longview",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.5007031,
+        "lon": -94.74049,
+        "state": "Texas"
+    },
+    "loreto": {
+        "name": "Loreto",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 43.439498,
+        "lon": 13.6070214,
+        "state": "Marche"
+    },
+    "los angeles": {
+        "name": "Los Angeles",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.0536909,
+        "lon": -118.242766,
+        "state": "California"
+    },
+    "los mochis": {
+        "name": "Los Mochis",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 25.7928058,
+        "lon": -108.990188,
+        "state": "Sinaloa"
+    },
+    "louisville": {
+        "name": "Louisville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.2542376,
+        "lon": -85.759407,
+        "state": "Kentucky"
+    },
+    "lubbock": {
+        "name": "Lubbock",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.5635206,
+        "lon": -101.879336,
+        "state": "Texas"
+    },
+    "lusaka": {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "countryCode": "ZM",
+        "continent": "Africa",
+        "lat": -15.4164124,
+        "lon": 28.2824793,
+        "state": "Lusaka Province"
+    },
+    "luxembourg city": {
+        "name": "Luxembourg City",
+        "country": "Luxembourg",
+        "countryCode": "LU",
+        "continent": "Europe",
+        "lat": 49.6112768,
+        "lon": 6.129799
+    },
+    "lynchburg": {
+        "name": "Lynchburg",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.4137536,
+        "lon": -79.1422464,
+        "state": "Virginia"
+    },
+    "lyon": {
+        "name": "Lyon",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 45.7578137,
+        "lon": 4.8320114,
+        "state": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    "maceio": {
+        "name": "Maceio",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -9.6476843,
+        "lon": -35.7339264,
+        "state": "Alagoas"
+    },
+    "madison": {
+        "name": "Madison",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.074761,
+        "lon": -89.3837613,
+        "state": "Wisconsin"
+    },
+    "madrid": {
+        "name": "Madrid",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 40.4167047,
+        "lon": -3.7035825,
+        "state": "Community of Madrid"
+    },
+    "mahe": {
+        "name": "Mahe",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 11.7021978,
+        "lon": 75.5364701,
+        "state": "Puducherry"
+    },
+    "majuro": {
+        "name": "Majuro",
+        "country": "Marshall Islands",
+        "countryCode": "MH",
+        "continent": "Oceania",
+        "lat": 7.0909924,
+        "lon": 171.3816354
+    },
+    "malaga": {
+        "name": "Malaga",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 36.7213028,
+        "lon": -4.4216366,
+        "state": "Andalusia"
+    },
+    "male": {
+        "name": "Male",
+        "country": "Maldives",
+        "countryCode": "MV",
+        "continent": "Asia",
+        "lat": 4.1779879,
+        "lon": 73.5107387
+    },
+    "malta": {
+        "name": "Malta",
+        "country": "Malta",
+        "countryCode": "MT",
+        "continent": "Europe",
+        "lat": 35.90221125,
+        "lon": 14.413771221238456,
+        "state": "Northern Region"
+    },
+    "managua": {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "countryCode": "NI",
+        "continent": "North America",
+        "lat": 12.1459907,
+        "lon": -86.2746665,
+        "state": "Managua"
+    },
+    "manaus": {
+        "name": "Manaus",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -3.1316333,
+        "lon": -59.9825041,
+        "state": "Amazonas"
+    },
+    "manchester": {
+        "name": "Manchester",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 53.4794892,
+        "lon": -2.2451148,
+        "state": "England"
+    },
+    "manhattan": {
+        "name": "Manhattan",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.7896239,
+        "lon": -73.9598939,
+        "state": "New York"
+    },
+    "manila": {
+        "name": "Manila",
+        "country": "Philippines",
+        "countryCode": "PH",
+        "continent": "Asia",
+        "lat": 14.5948914,
+        "lon": 120.9782618
+    },
+    "manzanillo": {
+        "name": "Manzanillo",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 41.586343,
+        "lon": -4.189038,
+        "state": "Castile and Le\u00f3n"
+    },
+    "marigot, dominica": {
+        "name": "Marigot, Dominica",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 18.0668544,
+        "lon": -63.0848869,
+        "state": "Saint Martin (France)"
+    },
+    "marion": {
+        "name": "Marion",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.7306054,
+        "lon": -88.9331256,
+        "state": "Illinois"
+    },
+    "marquette": {
+        "name": "Marquette",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.5434914,
+        "lon": -87.396433,
+        "state": "Michigan"
+    },
+    "marrakech": {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "countryCode": "MA",
+        "continent": "Africa",
+        "lat": 31.6258257,
+        "lon": -7.9891608
+    },
+    "marrakesh": {
+        "name": "Marrakesh",
+        "country": "Morocco",
+        "countryCode": "MA",
+        "continent": "Africa",
+        "lat": 31.6258257,
+        "lon": -7.9891608
+    },
+    "marseille": {
+        "name": "Marseille",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 43.2961743,
+        "lon": 5.3699525,
+        "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    "marsh harbour, bahamas": {
+        "name": "Marsh Harbour, Bahamas",
+        "country": "Bahamas",
+        "countryCode": "BS",
+        "continent": "North America",
+        "lat": 26.5382728,
+        "lon": -77.0610382
+    },
+    "martha's vineyard": {
+        "name": "Martha's Vineyard",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.392021299999996,
+        "lon": -70.62074839455545,
+        "state": "Massachusetts"
+    },
+    "mason city": {
+        "name": "Mason City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.1524574,
+        "lon": -93.2017941,
+        "state": "Iowa"
+    },
+    "matamoros": {
+        "name": "Matamoros",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 25.8520977,
+        "lon": -97.5017951,
+        "state": "Tamaulipas"
+    },
+    "maui": {
+        "name": "Maui",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 20.802956799999997,
+        "lon": -156.31068331602177,
+        "state": "Hawaii"
+    },
+    "mazatlan": {
+        "name": "Mazatlan",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 23.2313053,
+        "lon": -106.4153144,
+        "state": "Sinaloa"
+    },
+    "mcallen": {
+        "name": "Mcallen",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 26.204114,
+        "lon": -98.2300605,
+        "state": "Texas"
+    },
+    "medellin": {
+        "name": "Medellin",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 6.2443382,
+        "lon": -75.573553,
+        "state": "Antioquia"
+    },
+    "medford": {
+        "name": "Medford",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.4184296,
+        "lon": -71.1061639,
+        "state": "Massachusetts"
+    },
+    "melbourne": {
+        "name": "Melbourne",
+        "country": "Australia",
+        "countryCode": "AU",
+        "continent": "Oceania",
+        "lat": -37.8142176,
+        "lon": 144.9631608,
+        "state": "Victoria"
+    },
+    "memphis": {
+        "name": "Memphis",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.1335022,
+        "lon": -89.9668758,
+        "state": "Tennessee"
+    },
+    "mendoza": {
+        "name": "Mendoza",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "continent": "South America",
+        "lat": -32.8894155,
+        "lon": -68.8446177,
+        "state": "Mendoza"
+    },
+    "meridian": {
+        "name": "Meridian",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.3643098,
+        "lon": -88.703656,
+        "state": "Mississippi"
+    },
+    "mexicali": {
+        "name": "Mexicali",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 32.6248622,
+        "lon": -115.448325,
+        "state": "Baja California"
+    },
+    "mexico city": {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 19.4326296,
+        "lon": -99.1331785
+    },
+    "miami": {
+        "name": "Miami",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 25.7741728,
+        "lon": -80.19362,
+        "state": "Florida"
+    },
+    "midland": {
+        "name": "Midland",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 31.9973662,
+        "lon": -102.077948,
+        "state": "Texas"
+    },
+    "milan": {
+        "name": "Milan",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 45.4641943,
+        "lon": 9.1896346,
+        "state": "Lombardy"
+    },
+    "milwaukee": {
+        "name": "Milwaukee",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.0349931,
+        "lon": -87.922497,
+        "state": "Wisconsin"
+    },
+    "minatitlan": {
+        "name": "Minatitlan",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 17.994478,
+        "lon": -94.5582148,
+        "state": "Veracruz"
+    },
+    "minneapolis": {
+        "name": "Minneapolis",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.9772995,
+        "lon": -93.2654692,
+        "state": "Minnesota"
+    },
+    "minot": {
+        "name": "Minot",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 47.6698594,
+        "lon": 4.8786165,
+        "state": "Bourgogne-Franche-Comt\u00e9"
+    },
+    "missoula": {
+        "name": "Missoula",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.8701049,
+        "lon": -113.995267,
+        "state": "Montana"
+    },
+    "moab": {
+        "name": "Moab",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.5738096,
+        "lon": -109.5462146,
+        "state": "Utah"
+    },
+    "mobile": {
+        "name": "Mobile",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.6867339,
+        "lon": -88.0848929,
+        "state": "Alabama"
+    },
+    "moline": {
+        "name": "Moline",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.5058344,
+        "lon": -90.5136642,
+        "state": "Illinois"
+    },
+    "monroe": {
+        "name": "Monroe",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.5102427,
+        "lon": -92.1032411,
+        "state": "Louisiana"
+    },
+    "montego bay": {
+        "name": "Montego Bay",
+        "country": "Jamaica",
+        "countryCode": "JM",
+        "continent": "North America",
+        "lat": 18.4724603,
+        "lon": -77.9217357
+    },
+    "monterey": {
+        "name": "Monterey",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.600256,
+        "lon": -121.8946388,
+        "state": "California"
+    },
+    "monterrey": {
+        "name": "Monterrey",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 25.6802019,
+        "lon": -100.315258,
+        "state": "Nuevo Le\u00f3n"
+    },
+    "montevideo": {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "continent": "South America",
+        "lat": -34.9058916,
+        "lon": -56.1913095,
+        "state": "Montevideo"
+    },
+    "montgomery": {
+        "name": "Montgomery",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.3669656,
+        "lon": -86.3006485,
+        "state": "Alabama"
+    },
+    "montreal": {
+        "name": "Montreal",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 45.5031824,
+        "lon": -73.5698065,
+        "state": "Quebec"
+    },
+    "montrose": {
+        "name": "Montrose",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.4781927,
+        "lon": -107.8762771,
+        "state": "Colorado"
+    },
+    "morelia": {
+        "name": "Morelia",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 19.7027116,
+        "lon": -101.1923818,
+        "state": "Michoac\u00e1n"
+    },
+    "mumbai": {
+        "name": "Mumbai",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 19.0785451,
+        "lon": 72.878176,
+        "state": "Maharashtra"
+    },
+    "munich": {
+        "name": "Munich",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 48.1371079,
+        "lon": 11.5753822,
+        "state": "Bavaria"
+    },
+    "muscat": {
+        "name": "Muscat",
+        "country": "Oman",
+        "countryCode": "OM",
+        "continent": "Asia",
+        "lat": 23.61515,
+        "lon": 58.5912467,
+        "state": "Muscat"
+    },
+    "myrtle beach": {
+        "name": "Myrtle Beach",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.6956461,
+        "lon": -78.8900409,
+        "state": "South Carolina"
+    },
+    "m\u00e9rida": {
+        "name": "M\u00e9rida",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 38.9174665,
+        "lon": -6.3443977,
+        "state": "Extremadura"
+    },
+    "nadi": {
+        "name": "Nadi",
+        "country": "Fiji",
+        "countryCode": "FJ",
+        "continent": "Oceania",
+        "lat": -17.7992725,
+        "lon": 177.4178549,
+        "state": "Western"
+    },
+    "nagoya": {
+        "name": "Nagoya",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 35.1851045,
+        "lon": 136.8998438
+    },
+    "nairobi": {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "countryCode": "KE",
+        "continent": "Africa",
+        "lat": -1.30326415,
+        "lon": 36.826384099341595,
+        "state": "Nairobi County"
+    },
+    "nantes": {
+        "name": "Nantes",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 47.2186371,
+        "lon": -1.5541362,
+        "state": "Pays de la Loire"
+    },
+    "nantucket": {
+        "name": "Nantucket",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.315731400000004,
+        "lon": -70.00901408779944,
+        "state": "Massachusetts"
+    },
+    "naples": {
+        "name": "Naples",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 40.8358846,
+        "lon": 14.2487679,
+        "state": "Campania"
+    },
+    "nashville": {
+        "name": "Nashville",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.1622767,
+        "lon": -86.7742984,
+        "state": "Tennessee"
+    },
+    "nassau": {
+        "name": "Nassau",
+        "country": "Bahamas",
+        "countryCode": "BS",
+        "continent": "North America",
+        "lat": 25.0783456,
+        "lon": -77.3383331
+    },
+    "new bern": {
+        "name": "New Bern",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.1084931,
+        "lon": -77.0441143,
+        "state": "North Carolina"
+    },
+    "new haven": {
+        "name": "New Haven",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.3082138,
+        "lon": -72.9250518,
+        "state": "Connecticut"
+    },
+    "new orleans": {
+        "name": "New Orleans",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 29.9759983,
+        "lon": -90.0782127,
+        "state": "Louisiana"
+    },
+    "new york": {
+        "name": "New York",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "state": "New York"
+    },
+    "newburgh": {
+        "name": "Newburgh",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.5034271,
+        "lon": -74.0104179,
+        "state": "New York"
+    },
+    "newcastle upon tyne": {
+        "name": "Newcastle upon Tyne",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "countryCode": "GB",
+        "continent": "Europe",
+        "lat": 54.9738474,
+        "lon": -1.6131572,
+        "state": "England"
+    },
+    "nice": {
+        "name": "Nice",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 43.7009358,
+        "lon": 7.2683912,
+        "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    "norfolk": {
+        "name": "Norfolk",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.8448348,
+        "lon": -76.2863999,
+        "state": "Virginia"
+    },
+    "north bend": {
+        "name": "North Bend",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 47.4957757,
+        "lon": -121.784889,
+        "state": "Washington"
+    },
+    "north eleuthera, bahamas": {
+        "name": "North Eleuthera, Bahamas",
+        "country": "Bahamas",
+        "countryCode": "BS",
+        "continent": "North America",
+        "lat": 25.377669400000002,
+        "lon": -76.78426554397748
+    },
+    "north platte": {
+        "name": "North Platte",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.1238873,
+        "lon": -100.7654232,
+        "state": "Nebraska"
+    },
+    "nuevo laredo": {
+        "name": "Nuevo Laredo",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 27.4761506,
+        "lon": -99.5185992,
+        "state": "Tamaulipas"
+    },
+    "nuremberg": {
+        "name": "Nuremberg",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 49.453872,
+        "lon": 11.077298,
+        "state": "Bavaria"
+    },
+    "oakland": {
+        "name": "Oakland",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.8044557,
+        "lon": -122.271356,
+        "state": "California"
+    },
+    "oaxaca": {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 17.0604663,
+        "lon": -96.7253575
+    },
+    "oceanside": {
+        "name": "Oceanside",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.1958696,
+        "lon": -117.3794834,
+        "state": "California"
+    },
+    "ocho rios": {
+        "name": "Ocho Rios",
+        "country": "Jamaica",
+        "countryCode": "JM",
+        "continent": "North America",
+        "lat": 18.4081045,
+        "lon": -77.1011092
+    },
+    "okinawa": {
+        "name": "Okinawa",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 26.4748948,
+        "lon": 127.91146866408414
+    },
+    "oklahoma city": {
+        "name": "Oklahoma City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.4729886,
+        "lon": -97.5170536,
+        "state": "Oklahoma"
+    },
+    "omaha": {
+        "name": "Omaha",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.2587459,
+        "lon": -95.9383758,
+        "state": "Nebraska"
+    },
+    "ontario": {
+        "name": "Ontario",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.065846,
+        "lon": -117.6484304,
+        "state": "California"
+    },
+    "orange county": {
+        "name": "Orange County",
+        "country": "India",
+        "countryCode": "IN",
+        "continent": "Asia",
+        "lat": 28.640021750000002,
+        "lon": 77.36148564352965,
+        "state": "Uttar Pradesh"
+    },
+    "oranjestad, aruba": {
+        "name": "Oranjestad, Aruba",
+        "country": "Netherlands, Kingdom of the",
+        "countryCode": "NL",
+        "continent": "Europe",
+        "lat": 12.5268736,
+        "lon": -70.0356845
+    },
+    "orlando": {
+        "name": "Orlando",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 28.5421109,
+        "lon": -81.3790304,
+        "state": "Florida"
+    },
+    "osaka": {
+        "name": "Osaka",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 34.6937569,
+        "lon": 135.5014539,
+        "state": "Osaka Prefecture"
+    },
+    "oslo": {
+        "name": "Oslo",
+        "country": "Norway",
+        "countryCode": "NO",
+        "continent": "Europe",
+        "lat": 59.9133301,
+        "lon": 10.7389701
+    },
+    "ottawa": {
+        "name": "Ottawa",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 45.4208777,
+        "lon": -75.6901106,
+        "state": "Ontario"
+    },
+    "oviedo": {
+        "name": "Oviedo",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 43.3604218,
+        "lon": -5.8450534,
+        "state": "Asturias"
+    },
+    "owensboro": {
+        "name": "Owensboro",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.7742152,
+        "lon": -87.1133304,
+        "state": "Kentucky"
+    },
+    "palermo": {
+        "name": "Palermo",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 38.1112268,
+        "lon": 13.3524434,
+        "state": "Sicily"
+    },
+    "palm springs": {
+        "name": "Palm Springs",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.8246269,
+        "lon": -116.540303,
+        "state": "California"
+    },
+    "palma de mallorca": {
+        "name": "Palma de Mallorca",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 39.5695818,
+        "lon": 2.6500745,
+        "state": "Balearic Islands"
+    },
+    "palmerola": {
+        "name": "Palmerola",
+        "country": "Honduras",
+        "countryCode": "HN",
+        "continent": "North America",
+        "lat": 14.3733885,
+        "lon": -87.6052293,
+        "state": "Comayagua"
+    },
+    "panama city": {
+        "name": "Panama City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.1600827,
+        "lon": -85.6545729,
+        "state": "Florida"
+    },
+    "papeete, tahiti": {
+        "name": "Papeete, Tahiti",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": -17.5373835,
+        "lon": -149.5659964,
+        "state": "French Polynesia"
+    },
+    "paramaribo": {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "countryCode": "SR",
+        "continent": "South America",
+        "lat": 5.8247628,
+        "lon": -55.1703941,
+        "state": "Paramaribo"
+    },
+    "paris": {
+        "name": "Paris",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 48.8588897,
+        "lon": 2.3200410217200766,
+        "state": "Ile-de-France"
+    },
+    "pasco": {
+        "name": "Pasco",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.2306739,
+        "lon": -119.0921,
+        "state": "Washington"
+    },
+    "pensacola": {
+        "name": "Pensacola",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.421309,
+        "lon": -87.2169149,
+        "state": "Florida"
+    },
+    "peoria": {
+        "name": "Peoria",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.6938609,
+        "lon": -89.5891008,
+        "state": "Illinois"
+    },
+    "pereira": {
+        "name": "Pereira",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 4.8142907,
+        "lon": -75.6946964,
+        "state": "Risaralda"
+    },
+    "perth": {
+        "name": "Perth",
+        "country": "Australia",
+        "countryCode": "AU",
+        "continent": "Oceania",
+        "lat": -31.9558964,
+        "lon": 115.8605801,
+        "state": "Western Australia"
+    },
+    "philadelphia": {
+        "name": "Philadelphia",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.9527237,
+        "lon": -75.1635262,
+        "state": "Pennsylvania"
+    },
+    "phnom penh": {
+        "name": "Phnom Penh",
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "continent": "Asia",
+        "lat": 11.568271,
+        "lon": 104.9224426,
+        "state": "Phnom Penh"
+    },
+    "phoenix": {
+        "name": "Phoenix",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.4484367,
+        "lon": -112.074141,
+        "state": "Arizona"
+    },
+    "phuket": {
+        "name": "Phuket",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "continent": "Asia",
+        "lat": 7.8847901,
+        "lon": 98.3891503,
+        "state": "Phuket Province"
+    },
+    "pittsburgh": {
+        "name": "Pittsburgh",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.4416941,
+        "lon": -79.9900861,
+        "state": "Pennsylvania"
+    },
+    "piura": {
+        "name": "Piura",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -5.1971376,
+        "lon": -80.6267237,
+        "state": "Piura"
+    },
+    "pohnpei": {
+        "name": "Pohnpei",
+        "country": "Micronesia, Federated States of",
+        "countryCode": "FM",
+        "continent": "Oceania",
+        "lat": 6.88704675,
+        "lon": 158.24061376394383,
+        "state": "Pohnpei"
+    },
+    "pointe-a-pitre, guadeloupe": {
+        "name": "Pointe-a-Pitre, Guadeloupe",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 16.2408636,
+        "lon": -61.5334077,
+        "state": "Guadeloupe"
+    },
+    "ponce": {
+        "name": "Ponce",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 18.011564,
+        "lon": -66.613958,
+        "state": "Puerto Rico"
+    },
+    "ponta delgada": {
+        "name": "Ponta Delgada",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "continent": "Europe",
+        "lat": 37.7394344,
+        "lon": -25.6683618
+    },
+    "port arthur": {
+        "name": "Port Arthur",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 29.8988618,
+        "lon": -93.9288723,
+        "state": "Texas"
+    },
+    "port-au-prince": {
+        "name": "Port-au-Prince",
+        "country": "Haiti",
+        "countryCode": "HT",
+        "continent": "North America",
+        "lat": 18.547327,
+        "lon": -72.3395928,
+        "state": "West"
+    },
+    "port-of-spain": {
+        "name": "Port-of-Spain",
+        "country": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "continent": "North America",
+        "lat": 10.6572678,
+        "lon": -61.5180173
+    },
+    "port-of-spain, trinidad": {
+        "name": "Port-of-Spain, Trinidad",
+        "country": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "continent": "North America",
+        "lat": 10.6572678,
+        "lon": -61.5180173
+    },
+    "porto": {
+        "name": "Porto",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "continent": "Europe",
+        "lat": 41.1494512,
+        "lon": -8.6107884
+    },
+    "porto alegre": {
+        "name": "Porto Alegre",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -30.0324999,
+        "lon": -51.2303767,
+        "state": "Rio Grande do Sul"
+    },
+    "prague": {
+        "name": "Prague",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "continent": "Europe",
+        "lat": 50.0874654,
+        "lon": 14.4212535,
+        "state": "Prague"
+    },
+    "prescott": {
+        "name": "Prescott",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.5399962,
+        "lon": -112.468761,
+        "state": "Arizona"
+    },
+    "presque isle": {
+        "name": "Presque Isle",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.681479,
+        "lon": -68.016357,
+        "state": "Maine"
+    },
+    "providence": {
+        "name": "Providence",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.8239891,
+        "lon": -71.4128343,
+        "state": "Rhode Island"
+    },
+    "provincetown": {
+        "name": "Provincetown",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.0525612,
+        "lon": -70.1858639,
+        "state": "Massachusetts"
+    },
+    "provo": {
+        "name": "Provo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.2337289,
+        "lon": -111.6587085,
+        "state": "Utah"
+    },
+    "puebla": {
+        "name": "Puebla",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 19.0437196,
+        "lon": -98.1981486,
+        "state": "Puebla"
+    },
+    "puerto escondido": {
+        "name": "Puerto Escondido",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 15.8693331,
+        "lon": -97.0726428
+    },
+    "puerto montt": {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "countryCode": "CL",
+        "continent": "South America",
+        "lat": -41.471798,
+        "lon": -72.9395915,
+        "state": "Los Lagos Region"
+    },
+    "puerto plata": {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "continent": "North America",
+        "lat": 19.7893977,
+        "lon": -70.6940515,
+        "state": "Puerto Plata"
+    },
+    "puerto vallarta": {
+        "name": "Puerto Vallarta",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 20.6407176,
+        "lon": -105.220306,
+        "state": "Jalisco"
+    },
+    "pullman": {
+        "name": "Pullman",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.7304268,
+        "lon": -117.173895,
+        "state": "Washington"
+    },
+    "punta cana": {
+        "name": "Punta Cana",
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "continent": "North America",
+        "lat": 18.556551,
+        "lon": -68.3691611,
+        "state": "La Altagracia"
+    },
+    "queenstown": {
+        "name": "Queenstown",
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "continent": "Oceania",
+        "lat": -45.0321923,
+        "lon": 168.661,
+        "state": "Otago"
+    },
+    "queretaro": {
+        "name": "Queretaro",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 20.5954708,
+        "lon": -100.397059,
+        "state": "Quer\u00e9taro"
+    },
+    "quito": {
+        "name": "Quito",
+        "country": "Ecuador",
+        "countryCode": "EC",
+        "continent": "South America",
+        "lat": -0.2201641,
+        "lon": -78.5123274,
+        "state": "Pichincha"
+    },
+    "qu\u00e9bec": {
+        "name": "Qu\u00e9bec",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 46.8137431,
+        "lon": -71.2084061,
+        "state": "Quebec"
+    },
+    "raleigh": {
+        "name": "Raleigh",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.7803977,
+        "lon": -78.6390989,
+        "state": "North Carolina"
+    },
+    "rapid city": {
+        "name": "Rapid City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.0869329,
+        "lon": -103.2274481,
+        "state": "South Dakota"
+    },
+    "recife": {
+        "name": "Recife",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -8.0584933,
+        "lon": -34.8848193,
+        "state": "Pernambuco"
+    },
+    "redding": {
+        "name": "Redding",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.5863563,
+        "lon": -122.391675,
+        "state": "California"
+    },
+    "redmond": {
+        "name": "Redmond",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 47.6694141,
+        "lon": -122.1238767,
+        "state": "Washington"
+    },
+    "reno": {
+        "name": "Reno",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.5261206,
+        "lon": -119.8126581,
+        "state": "Nevada"
+    },
+    "reykjavik": {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "countryCode": "IS",
+        "continent": "Europe",
+        "lat": 64.145981,
+        "lon": -21.9422367
+    },
+    "reynosa": {
+        "name": "Reynosa",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 26.0704018,
+        "lon": -98.2963932,
+        "state": "Tamaulipas"
+    },
+    "richmond": {
+        "name": "Richmond",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.5385087,
+        "lon": -77.43428,
+        "state": "Virginia"
+    },
+    "rio de janeiro": {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -22.9110137,
+        "lon": -43.2093727,
+        "state": "Rio de Janeiro"
+    },
+    "riverton": {
+        "name": "Riverton",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.6870011,
+        "lon": -95.568169,
+        "state": "Iowa"
+    },
+    "riyadh": {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "countryCode": "SA",
+        "continent": "Asia",
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "state": "Riyadh Region"
+    },
+    "roanoke": {
+        "name": "Roanoke",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.270973,
+        "lon": -79.9414313,
+        "state": "Virginia"
+    },
+    "roatan": {
+        "name": "Roatan",
+        "country": "Honduras",
+        "countryCode": "HN",
+        "continent": "North America",
+        "lat": 16.3258339,
+        "lon": -86.565332,
+        "state": "Bay Islands"
+    },
+    "rochester": {
+        "name": "Rochester",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.157285,
+        "lon": -77.615214,
+        "state": "New York"
+    },
+    "rock springs": {
+        "name": "Rock Springs",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.5860557,
+        "lon": -109.2194544,
+        "state": "Wyoming"
+    },
+    "rome": {
+        "name": "Rome",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 41.8933203,
+        "lon": 12.4829321,
+        "state": "Lazio"
+    },
+    "rosario": {
+        "name": "Rosario",
+        "country": "Argentina",
+        "countryCode": "AR",
+        "continent": "South America",
+        "lat": -32.9595004,
+        "lon": -60.6615415,
+        "state": "Santa Fe"
+    },
+    "roswell": {
+        "name": "Roswell",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.02332,
+        "lon": -84.360022,
+        "state": "Georgia"
+    },
+    "sacramento": {
+        "name": "Sacramento",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.5810606,
+        "lon": -121.493895,
+        "state": "California"
+    },
+    "saginaw": {
+        "name": "Saginaw",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.4200387,
+        "lon": -83.9490365,
+        "state": "Michigan"
+    },
+    "saint croix": {
+        "name": "Saint Croix",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 17.7289564,
+        "lon": -64.75901597858353,
+        "state": "United States Virgin Islands"
+    },
+    "saint louis": {
+        "name": "Saint Louis",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.6319657,
+        "lon": -90.2428756,
+        "state": "Missouri"
+    },
+    "saint martin": {
+        "name": "Saint Martin",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 18.0814066,
+        "lon": -63.0467131,
+        "state": "Saint Martin (France)"
+    },
+    "saipan": {
+        "name": "Saipan",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 15.1909825,
+        "lon": 145.746743003024,
+        "state": "Northern Mariana Islands"
+    },
+    "salina": {
+        "name": "Salina",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.8402805,
+        "lon": -97.6114237,
+        "state": "Kansas"
+    },
+    "salt lake city": {
+        "name": "Salt Lake City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.7596198,
+        "lon": -111.8867975,
+        "state": "Utah"
+    },
+    "salvador": {
+        "name": "Salvador",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -12.9822499,
+        "lon": -38.4812772,
+        "state": "Bahia"
+    },
+    "salzburg": {
+        "name": "Salzburg",
+        "country": "Austria",
+        "countryCode": "AT",
+        "continent": "Europe",
+        "lat": 47.7981346,
+        "lon": 13.0464806,
+        "state": "Salzburg"
+    },
+    "san andres island": {
+        "name": "San Andres Island",
+        "country": "Philippines",
+        "countryCode": "PH",
+        "continent": "Asia",
+        "lat": 12.39431665,
+        "lon": 124.01510705137673,
+        "state": "Northern Samar"
+    },
+    "san angelo": {
+        "name": "San Angelo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 31.4649685,
+        "lon": -100.4405094,
+        "state": "Texas"
+    },
+    "san antonio": {
+        "name": "San Antonio",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 29.4246002,
+        "lon": -98.4951405,
+        "state": "Texas"
+    },
+    "san diego": {
+        "name": "San Diego",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.7174202,
+        "lon": -117.1627728,
+        "state": "California"
+    },
+    "san francisco": {
+        "name": "San Francisco",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.7790262,
+        "lon": -122.419906,
+        "state": "California"
+    },
+    "san jose": {
+        "name": "San Jose",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.3361663,
+        "lon": -121.890591,
+        "state": "California"
+    },
+    "san jose, cr": {
+        "name": "San Jose, CR",
+        "country": "Costa Rica",
+        "countryCode": "CR",
+        "continent": "North America",
+        "lat": 9.9325427,
+        "lon": -84.0795782
+    },
+    "san juan": {
+        "name": "San Juan",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 18.465299,
+        "lon": -66.116666,
+        "state": "Puerto Rico"
+    },
+    "san luis obispo": {
+        "name": "San Luis Obispo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.2827525,
+        "lon": -120.6596156,
+        "state": "California"
+    },
+    "san luis potosi": {
+        "name": "San Luis Potosi",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 22.1516472,
+        "lon": -100.9763993,
+        "state": "San Luis Potosi"
+    },
+    "san pedro sula": {
+        "name": "San Pedro Sula",
+        "country": "Honduras",
+        "countryCode": "HN",
+        "continent": "North America",
+        "lat": 15.5062156,
+        "lon": -88.0248937,
+        "state": "Cort\u00e9s"
+    },
+    "san salvador": {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "countryCode": "SV",
+        "continent": "North America",
+        "lat": 13.6989939,
+        "lon": -89.1914249,
+        "state": "Departamento de San Salvador"
+    },
+    "san sebastian": {
+        "name": "San Sebastian",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 43.3224219,
+        "lon": -1.9838889,
+        "state": "Autonomous Community of the Basque Country"
+    },
+    "santa barbara": {
+        "name": "Santa Barbara",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 34.4221319,
+        "lon": -119.7026673,
+        "state": "California"
+    },
+    "santa clara, cuba": {
+        "name": "Santa Clara, Cuba",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.3541132,
+        "lon": -121.955174,
+        "state": "California"
+    },
+    "santa cruz": {
+        "name": "Santa Cruz",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 28.469648,
+        "lon": -16.2540884
+    },
+    "santa fe": {
+        "name": "Santa Fe",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.6876096,
+        "lon": -105.938456,
+        "state": "New Mexico"
+    },
+    "santa marta": {
+        "name": "Santa Marta",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "continent": "South America",
+        "lat": 11.2320988,
+        "lon": -74.1950883,
+        "state": "Magdalena"
+    },
+    "santa rosa": {
+        "name": "Santa Rosa",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.4404925,
+        "lon": -122.7141049,
+        "state": "California"
+    },
+    "santander": {
+        "name": "Santander",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 43.4620412,
+        "lon": -3.8099719,
+        "state": "Cantabria"
+    },
+    "santiago": {
+        "name": "Santiago",
+        "country": "Costa Rica",
+        "countryCode": "CR",
+        "continent": "North America",
+        "lat": 9.8694792,
+        "lon": -83.7980749
+    },
+    "santiago de compostela": {
+        "name": "Santiago de Compostela",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 42.8804219,
+        "lon": -8.5458608,
+        "state": "Galicia"
+    },
+    "santiago de cuba": {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "countryCode": "CU",
+        "continent": "North America",
+        "lat": 20.0214637,
+        "lon": -75.8294928,
+        "state": "Santiago de Cuba"
+    },
+    "santiago de los caballeros": {
+        "name": "Santiago de los Caballeros",
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "continent": "North America",
+        "lat": 19.4503932,
+        "lon": -70.6909047,
+        "state": "Santiago"
+    },
+    "santo domingo": {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "continent": "North America",
+        "lat": 18.4801972,
+        "lon": -69.942111,
+        "state": "Distrito Nacional"
+    },
+    "santorini": {
+        "name": "Santorini",
+        "country": "Greece",
+        "countryCode": "GR",
+        "continent": "Europe",
+        "lat": 36.4622122,
+        "lon": 25.3757257,
+        "state": "Aegean"
+    },
+    "sao paulo": {
+        "name": "Sao Paulo",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "continent": "South America",
+        "lat": -23.5506507,
+        "lon": -46.6333824,
+        "state": "S\u00e3o Paulo"
+    },
+    "sapporo": {
+        "name": "Sapporo",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 43.061936,
+        "lon": 141.3542924
+    },
+    "sarajevo": {
+        "name": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "BA",
+        "continent": "Europe",
+        "lat": 43.8519774,
+        "lon": 18.3866868,
+        "state": "Federation of Bosnia and Herzegovina"
+    },
+    "sarasota": {
+        "name": "Sarasota",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 27.3365805,
+        "lon": -82.5308545,
+        "state": "Florida"
+    },
+    "savannah": {
+        "name": "Savannah",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.0564572,
+        "lon": -81.0951271,
+        "state": "Georgia"
+    },
+    "scottsbluff": {
+        "name": "Scottsbluff",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.862302,
+        "lon": -103.6627088,
+        "state": "Nebraska"
+    },
+    "scranton": {
+        "name": "Scranton",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.4086874,
+        "lon": -75.6621294,
+        "state": "Pennsylvania"
+    },
+    "seattle": {
+        "name": "Seattle",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 47.6038321,
+        "lon": -122.330062,
+        "state": "Washington"
+    },
+    "sendai": {
+        "name": "Sendai",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 38.2677554,
+        "lon": 140.8691498
+    },
+    "seoul": {
+        "name": "Seoul",
+        "country": "Korea, Republic of",
+        "countryCode": "KR",
+        "continent": "Asia",
+        "lat": 37.5666791,
+        "lon": 126.9782914
+    },
+    "sevilla": {
+        "name": "Sevilla",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 37.3886303,
+        "lon": -5.9953403,
+        "state": "Andalusia"
+    },
+    "shanghai": {
+        "name": "Shanghai",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 31.2322758,
+        "lon": 121.4692071
+    },
+    "shannon": {
+        "name": "Shannon",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.1547457,
+        "lon": -89.7398389,
+        "state": "Illinois"
+    },
+    "shenyang": {
+        "name": "Shenyang",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 41.6749893,
+        "lon": 123.458674,
+        "state": "Liaoning"
+    },
+    "sheridan": {
+        "name": "Sheridan",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.797194,
+        "lon": -106.956179,
+        "state": "Wyoming"
+    },
+    "shreveport": {
+        "name": "Shreveport",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.4707862,
+        "lon": -93.7559378,
+        "state": "Louisiana"
+    },
+    "singapore": {
+        "name": "Singapore",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "continent": "Asia",
+        "lat": 1.2899175,
+        "lon": 103.8519072
+    },
+    "sioux city": {
+        "name": "Sioux City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.4966815,
+        "lon": -96.4058782,
+        "state": "Iowa"
+    },
+    "sioux falls": {
+        "name": "Sioux Falls",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 43.5488256,
+        "lon": -96.7307737,
+        "state": "South Dakota"
+    },
+    "sofia": {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "continent": "Europe",
+        "lat": 42.6977028,
+        "lon": 23.3217359
+    },
+    "south bend": {
+        "name": "South Bend",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.6833813,
+        "lon": -86.2500066,
+        "state": "Indiana"
+    },
+    "split": {
+        "name": "Split",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "continent": "Europe",
+        "lat": 43.5116383,
+        "lon": 16.4399659
+    },
+    "spokane": {
+        "name": "Spokane",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 47.6571934,
+        "lon": -117.42351,
+        "state": "Washington"
+    },
+    "springfield": {
+        "name": "Springfield",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.7990175,
+        "lon": -89.6439575,
+        "state": "Illinois"
+    },
+    "st george": {
+        "name": "St George",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.104153,
+        "lon": -113.5841313,
+        "state": "Utah"
+    },
+    "st. george's, grenada": {
+        "name": "St. George's, Grenada",
+        "country": "Grenada",
+        "countryCode": "GD",
+        "continent": "North America",
+        "lat": 12.0535331,
+        "lon": -61.751805
+    },
+    "st. john's": {
+        "name": "St. John's",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 47.5614705,
+        "lon": -52.7126162,
+        "state": "Newfoundland and Labrador"
+    },
+    "st. john\u2019s, antigua": {
+        "name": "St. John\u2019s, Antigua",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 47.5614705,
+        "lon": -52.7126162,
+        "state": "Newfoundland and Labrador"
+    },
+    "st. maarten/st. martin": {
+        "name": "St. Maarten/St. Martin",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 18.0814066,
+        "lon": -63.0467131,
+        "state": "Saint Martin (France)"
+    },
+    "st. thomas": {
+        "name": "St. Thomas",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 49.4972,
+        "lon": 3.82019,
+        "state": "Hauts-de-France"
+    },
+    "state college": {
+        "name": "State College",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.7944504,
+        "lon": -77.8616386,
+        "state": "Pennsylvania"
+    },
+    "steamboat springs": {
+        "name": "Steamboat Springs",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.4848003,
+        "lon": -106.8317359,
+        "state": "Colorado"
+    },
+    "stillwater": {
+        "name": "Stillwater",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.1156306,
+        "lon": -97.0585717,
+        "state": "Oklahoma"
+    },
+    "stockholm": {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "continent": "Europe",
+        "lat": 59.3251172,
+        "lon": 18.0710935
+    },
+    "stuttgart": {
+        "name": "Stuttgart",
+        "country": "Germany",
+        "countryCode": "DE",
+        "continent": "Europe",
+        "lat": 48.7784485,
+        "lon": 9.1800132,
+        "state": "Baden-W\u00fcrttemberg"
+    },
+    "sun valley": {
+        "name": "Sun Valley",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.670169,
+        "lon": -95.42850117122116,
+        "state": "Texas"
+    },
+    "sydney": {
+        "name": "Sydney",
+        "country": "Australia",
+        "countryCode": "AU",
+        "continent": "Oceania",
+        "lat": -33.8698439,
+        "lon": 151.2082848,
+        "state": "New South Wales"
+    },
+    "syracuse": {
+        "name": "Syracuse",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 37.0646139,
+        "lon": 15.2907196,
+        "state": "Sicily"
+    },
+    "taipei": {
+        "name": "Taipei",
+        "country": "Taiwan, Province of China",
+        "countryCode": "TW",
+        "continent": "Asia",
+        "lat": 25.0375198,
+        "lon": 121.5636796
+    },
+    "tallahassee": {
+        "name": "Tallahassee",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 30.4380832,
+        "lon": -84.2809332,
+        "state": "Florida"
+    },
+    "tampa": {
+        "name": "Tampa",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 27.9477595,
+        "lon": -82.458444,
+        "state": "Florida"
+    },
+    "tampico": {
+        "name": "Tampico",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 22.2329889,
+        "lon": -97.8614802,
+        "state": "Tamaulipas"
+    },
+    "tapachula": {
+        "name": "Tapachula",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 14.9042905,
+        "lon": -92.2609265,
+        "state": "Chiapas"
+    },
+    "tarapoto": {
+        "name": "Tarapoto",
+        "country": "Peru",
+        "countryCode": "PE",
+        "continent": "South America",
+        "lat": -6.4877198,
+        "lon": -76.3598708,
+        "state": "San Mart\u00edn"
+    },
+    "tegucigalpa": {
+        "name": "Tegucigalpa",
+        "country": "Honduras",
+        "countryCode": "HN",
+        "continent": "North America",
+        "lat": 14.1057433,
+        "lon": -87.2040052,
+        "state": "Francisco Moraz\u00e1n"
+    },
+    "tehran": {
+        "name": "Tehran",
+        "country": "Iran, Islamic Republic of",
+        "countryCode": "IR",
+        "continent": "Asia",
+        "lat": 35.6892523,
+        "lon": 51.3896004
+    },
+    "tel aviv": {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "countryCode": "IL",
+        "continent": "Asia",
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "state": "Tel Aviv District"
+    },
+    "temuco": {
+        "name": "Temuco",
+        "country": "Chile",
+        "countryCode": "CL",
+        "continent": "South America",
+        "lat": -38.7362611,
+        "lon": -72.590546,
+        "state": "Araucan\u00eda Region"
+    },
+    "tenerife": {
+        "name": "Tenerife",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 28.2935785,
+        "lon": -16.621447121144122
+    },
+    "tepic": {
+        "name": "Tepic",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 21.5043446,
+        "lon": -104.894676,
+        "state": "Nayarit"
+    },
+    "texarkana": {
+        "name": "Texarkana",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.44667445,
+        "lon": -94.07714830522015,
+        "state": "Texas"
+    },
+    "thessaloniki": {
+        "name": "Thessaloniki",
+        "country": "Greece",
+        "countryCode": "GR",
+        "continent": "Europe",
+        "lat": 40.6403167,
+        "lon": 22.9352716,
+        "state": "Macedonia and Thrace"
+    },
+    "tijuana": {
+        "name": "Tijuana",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 32.5010188,
+        "lon": -116.964662,
+        "state": "Baja California"
+    },
+    "tokyo": {
+        "name": "Tokyo",
+        "country": "Japan",
+        "countryCode": "JP",
+        "continent": "Asia",
+        "lat": 35.6828387,
+        "lon": 139.7594549
+    },
+    "toledo": {
+        "name": "Toledo",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 39.8560679,
+        "lon": -4.0239568,
+        "state": "Castile-La Mancha"
+    },
+    "toronto": {
+        "name": "Toronto",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 43.6534817,
+        "lon": -79.3839347,
+        "state": "Ontario"
+    },
+    "torreon": {
+        "name": "Torreon",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 35.7947315,
+        "lon": -107.21208446076524,
+        "state": "New Mexico"
+    },
+    "toulouse": {
+        "name": "Toulouse",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 43.6044622,
+        "lon": 1.4442469,
+        "state": "Occitania"
+    },
+    "traverse city": {
+        "name": "Traverse City",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.7606441,
+        "lon": -85.6165301,
+        "state": "Michigan"
+    },
+    "trujillo": {
+        "name": "Trujillo",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 39.4605657,
+        "lon": -5.8816626,
+        "state": "Extremadura"
+    },
+    "tucson": {
+        "name": "Tucson",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.2228765,
+        "lon": -110.9748477,
+        "state": "Arizona"
+    },
+    "tulsa": {
+        "name": "Tulsa",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 36.1563122,
+        "lon": -95.9927436,
+        "state": "Oklahoma"
+    },
+    "tulum": {
+        "name": "Tulum",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 20.169626800000003,
+        "lon": -87.44979005748027,
+        "state": "Quintana Roo"
+    },
+    "turin": {
+        "name": "Turin",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 45.0677551,
+        "lon": 7.6824892,
+        "state": "Piedmont"
+    },
+    "tuxtla gutierrez": {
+        "name": "Tuxtla Gutierrez",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 16.753801,
+        "lon": -93.115959,
+        "state": "Chiapas"
+    },
+    "tyler": {
+        "name": "Tyler",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.3512601,
+        "lon": -95.3010624,
+        "state": "Texas"
+    },
+    "vail": {
+        "name": "Vail",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.6440207,
+        "lon": -106.3801669,
+        "state": "Colorado"
+    },
+    "valencia": {
+        "name": "Valencia",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "state": "Valencian Community"
+    },
+    "vancouver": {
+        "name": "Vancouver",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 49.2608724,
+        "lon": -123.113952,
+        "state": "British Columbia"
+    },
+    "venice": {
+        "name": "Venice",
+        "country": "Italy",
+        "countryCode": "IT",
+        "continent": "Europe",
+        "lat": 45.4371908,
+        "lon": 12.3345898,
+        "state": "Veneto"
+    },
+    "veracruz": {
+        "name": "Veracruz",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 19.1798858,
+        "lon": -96.135648,
+        "state": "Veracruz"
+    },
+    "vernal": {
+        "name": "Vernal",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 40.4556825,
+        "lon": -109.5284741,
+        "state": "Utah"
+    },
+    "victoria": {
+        "name": "Victoria",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 48.4283182,
+        "lon": -123.3649533,
+        "state": "British Columbia"
+    },
+    "vienna": {
+        "name": "Vienna",
+        "country": "Austria",
+        "countryCode": "AT",
+        "continent": "Europe",
+        "lat": 48.2083537,
+        "lon": 16.3725042
+    },
+    "vieux fort": {
+        "name": "Vieux Fort",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 15.9490608,
+        "lon": -61.6973849,
+        "state": "Guadeloupe"
+    },
+    "vieux fort, st. lucia": {
+        "name": "Vieux Fort, St. Lucia",
+        "country": "France",
+        "countryCode": "FR",
+        "continent": "Europe",
+        "lat": 15.9490608,
+        "lon": -61.6973849,
+        "state": "Guadeloupe"
+    },
+    "vigo": {
+        "name": "Vigo",
+        "country": "Spain",
+        "countryCode": "ES",
+        "continent": "Europe",
+        "lat": 42.2376602,
+        "lon": -8.7247205,
+        "state": "Galicia"
+    },
+    "villahermosa": {
+        "name": "Villahermosa",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 18.0018152,
+        "lon": -92.9330401483751,
+        "state": "Tabasco"
+    },
+    "vilnius": {
+        "name": "Vilnius",
+        "country": "Lithuania",
+        "countryCode": "LT",
+        "continent": "Europe",
+        "lat": 54.6870458,
+        "lon": 25.2829111,
+        "state": "Vilnius County"
+    },
+    "waco": {
+        "name": "Waco",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 31.549333,
+        "lon": -97.1466695,
+        "state": "Texas"
+    },
+    "walla walla": {
+        "name": "Walla Walla",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 46.0667277,
+        "lon": -118.339345,
+        "state": "Washington"
+    },
+    "warsaw": {
+        "name": "Warsaw",
+        "country": "Poland",
+        "countryCode": "PL",
+        "continent": "Europe",
+        "lat": 52.2319581,
+        "lon": 21.0067249,
+        "state": "Masovian Voivodeship"
+    },
+    "washington, d.c.": {
+        "name": "Washington, D.C.",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 38.8950368,
+        "lon": -77.0365427,
+        "state": "District of Columbia"
+    },
+    "waterloo": {
+        "name": "Waterloo",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.498275,
+        "lon": -92.3328743,
+        "state": "Iowa"
+    },
+    "watertown": {
+        "name": "Watertown",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.3652226,
+        "lon": -71.1843771,
+        "state": "Massachusetts"
+    },
+    "wausau": {
+        "name": "Wausau",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.9596017,
+        "lon": -89.6298239,
+        "state": "Wisconsin"
+    },
+    "wellington": {
+        "name": "Wellington",
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "continent": "Oceania",
+        "lat": -41.2887953,
+        "lon": 174.7772114,
+        "state": "Wellington"
+    },
+    "wenatchee": {
+        "name": "Wenatchee",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 47.4234599,
+        "lon": -120.310349,
+        "state": "Washington"
+    },
+    "west palm beach": {
+        "name": "West Palm Beach",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 26.715364,
+        "lon": -80.0532942,
+        "state": "Florida"
+    },
+    "west yellowstone": {
+        "name": "West Yellowstone",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 44.6632505,
+        "lon": -111.101169,
+        "state": "Montana"
+    },
+    "white plains": {
+        "name": "White Plains",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 41.0339862,
+        "lon": -73.7629097,
+        "state": "New York"
+    },
+    "wichita": {
+        "name": "Wichita",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 37.6922361,
+        "lon": -97.3375448,
+        "state": "Kansas"
+    },
+    "wichita falls": {
+        "name": "Wichita Falls",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 33.9004572,
+        "lon": -98.5020777,
+        "state": "Texas"
+    },
+    "williston": {
+        "name": "Williston",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 48.1465457,
+        "lon": -103.621814,
+        "state": "North Dakota"
+    },
+    "wilmington": {
+        "name": "Wilmington",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 39.7459468,
+        "lon": -75.546589,
+        "state": "Delaware"
+    },
+    "winnipeg": {
+        "name": "Winnipeg",
+        "country": "Canada",
+        "countryCode": "CA",
+        "continent": "North America",
+        "lat": 49.8955367,
+        "lon": -97.1384584,
+        "state": "Manitoba"
+    },
+    "worcester": {
+        "name": "Worcester",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 42.2625621,
+        "lon": -71.8018877,
+        "state": "Massachusetts"
+    },
+    "wuhan": {
+        "name": "Wuhan",
+        "country": "China",
+        "countryCode": "CN",
+        "continent": "Asia",
+        "lat": 30.5951051,
+        "lon": 114.2999353,
+        "state": "Hubei"
+    },
+    "yap": {
+        "name": "Yap",
+        "country": "Micronesia, Federated States of",
+        "countryCode": "FM",
+        "continent": "Oceania",
+        "lat": 9.54626825,
+        "lon": 138.16515987431325,
+        "state": "Yap"
+    },
+    "yuma": {
+        "name": "Yuma",
+        "country": "United States of America",
+        "countryCode": "US",
+        "continent": "North America",
+        "lat": 32.665135,
+        "lon": -114.47603157249804,
+        "state": "Arizona"
+    },
+    "zacatecas": {
+        "name": "Zacatecas",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "continent": "North America",
+        "lat": 22.7753891,
+        "lon": -102.5722706,
+        "state": "Zacatecas"
+    },
+    "zagreb": {
+        "name": "Zagreb",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "continent": "Europe",
+        "lat": 45.84262775,
+        "lon": 15.962195600884522
+    },
+    "zanzibar": {
+        "name": "Zanzibar",
+        "country": "Tanzania, United Republic of",
+        "countryCode": "TZ",
+        "continent": "Africa",
+        "lat": -6.1664908,
+        "lon": 39.2074312,
+        "state": "Zanzibar Urban/West"
+    },
+    "zurich": {
+        "name": "Zurich",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "continent": "Europe",
+        "lat": 47.3744489,
+        "lon": 8.5410422,
+        "state": "Zurich"
+    }
+}
