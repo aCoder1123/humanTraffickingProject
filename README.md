@@ -1,4 +1,9 @@
-# humanTraffickingProject
+# Human Trafficking Project
+
+A project to scrape airlines websites for flights, and then make a map using those flights in a visually meaningful way.
+
+![Full Map](images/FullMap80pth.png)
+![USA](images/UpdatedMap80pth.png)
 
 ### Steps
 

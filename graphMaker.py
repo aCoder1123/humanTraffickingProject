@@ -46,7 +46,7 @@ class GraphVisualization:
         label_options = {"ec": "k", "fc": "blue", "alpha": 0.7}
         nx.draw_networkx_labels(
             G, positionList, font_size=7, font_color="white", bbox=None)
-        img = plt.imread("Equal_Earth_projection.jpg")
+        img = plt.imread("images/Equal_Earth_projection.jpg")
         plt.imshow(img)
         plt.subplots_adjust(bottom=0.05, right=1, top=.95, left=0)
         plt.show()
