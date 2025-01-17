@@ -1,8 +1,9 @@
 import json
+import numpy as np
 
 validFlightList = []
 
-with open("validFlights.tsv") as file:
+with open("allFlights.tsv") as file:
     validFlightList = file.read().split("\n")[1:-1]
     file.close()
 
@@ -28,27 +29,27 @@ with open("WebScraping/unitedOutput.tsv") as file:
     flights.pop(0)
     unitedList = flights
 
+cityDataDict = {}
+with open("cityData2.json") as file:
+    cityDataDict = json.loads(file.read())
+    file.close()
 
 flightDataList = []
 
 for flight in validFlightList:
-    print(flight)
-    flightData = {
-        "destination": {
-            "city": "",
-            "lat": 0,
-            "long": 0,
-            "state": ""
-        },
-        "origin": {
-            "country": "",
-            "city": "",
-            "lat": 0,
-            "long": 0
-        },
+    origin, dest, _ = flight.split("\t")
+    flightData = {}
+    try:
+        flightData = {
+            "destination": cityDataDict[dest.lower()],
+            "origin": cityDataDict[origin.lower()],
+            "carriers": []
+        }
+    except:
+        continue
 
-        "carriers": []
-    }
+    if flightData["destination"]["country"] != "United States of America" or flightData["origin"]["continent"] not in ["South America", "Asia", "North America", "Africa"] or flightData["origin"]["country"] in ["United States of America", "Canada"] or flightData["destination"]["state"] in ["Hawaii", "Guam"]:
+        continue
 
     if flight in aaList:
         flightData["carriers"].append("aa")
@@ -58,13 +59,26 @@ for flight in validFlightList:
         flightData["carriers"].append("spirit")
     if flight in unitedList:
         flightData["carriers"].append("united")
-    
-    print(flightData)
-    break
 
     flightDataList.append(flightData)
 
+destinationDict = {}
+finalFlightDataList = []
+for flight in flightDataList:
+    if flight["destination"]["name"] in destinationDict.keys():
+        destinationDict[flight["destination"]["name"]] += 1
+    else:
+        destinationDict[flight["destination"]["name"]] = 1
 
-# outfile = open("fullValidFlightData.json", 'w')
-# outfile.write(json.dumps({"allFlights": flightDataList}))
-# outfile.close()
+percentile = int(input("Enter desired percentile (int): "))
+nthPercentile = np.percentile(list(destinationDict.values()), percentile)
+
+# print(destinationDict.values())
+# print(nthPercentile)
+for flight in flightDataList:
+    if destinationDict[flight["destination"]["name"]] >= nthPercentile: 
+        finalFlightDataList.append(flight)
+# ({percentile}pth)
+outfile = open(f"fullValidFlightData.json", 'w')
+outfile.write(json.dumps(finalFlightDataList, indent=4))
+outfile.close()
