@@ -5,9 +5,13 @@ import json
 import math
 
 positionList = {}
+destList = []
+originList = []
 height = 1030
 width = 2000
-
+flightNumDict = {}
+departuresList = []
+destinationsList = []
 
 class GraphVisualization:
 
@@ -22,15 +26,21 @@ class GraphVisualization:
         G = nx.DiGraph()
         G.add_edges_from(self.visual)
         pos = nx.spring_layout(G, seed=1734289230)
-        nodes = nx.draw_networkx_nodes(
-            G, positionList, node_color="blue", alpha=.95, node_size=100)
+        
+        destSizes = [flightNumDict[i] for i in list(set(destinationsList))]
+        originSizes = [flightNumDict[i] for i in list(set(originList))]
+        
+        nodes = nx.draw_networkx_nodes(G, positionList, nodelist=list(
+            set(destinationsList)), node_color="blue", alpha=.95, node_size=destSizes)
+        nodes = nx.draw_networkx_nodes(G, positionList, nodelist=list(
+            set(originList)), node_size=originSizes, node_color="red", alpha=.95)
         edges = nx.draw_networkx_edges(
             G,
             positionList,
             arrowstyle="->",
-            arrowsize=10,
-            width=.7,
-            alpha=.8
+            arrowsize=20,
+            width=.5,
+            alpha=.7
 
         )
         label_options = {"ec": "k", "fc": "blue", "alpha": 0.7}
@@ -38,7 +48,7 @@ class GraphVisualization:
             G, positionList, font_size=7, font_color="white", bbox=None)
         img = plt.imread("Equal_Earth_projection.jpg")
         plt.imshow(img)
-        plt.subplots_adjust(bottom=0.1, right=1, top=.9, left=0)
+        plt.subplots_adjust(bottom=0.05, right=1, top=.95, left=0)
         plt.show()
 
 
@@ -63,8 +73,7 @@ with open("fullValidFlightData.json") as file:
     fullDataList = json.loads(file.read())
     file.close()
 
-departuresList = []
-destinationsList = []
+
 flightsDict = {}
 G = GraphVisualization()
 
@@ -80,19 +89,23 @@ for flight in fullDataList:
 
     G.addEdge(flight["origin"]["name"], flight["destination"]["name"])
 
-    # positionList[flight["origin"]["name"]] = [
-    #     flight["origin"]["lon"], flight["origin"]["lat"]]
-    # positionList[flight["destination"]["name"]] = [
-    #     flight["destination"]["lon"], flight["destination"]["lat"]]
-
-    # positionList[flight["origin"]["name"]] = [width * (flight["origin"]["lon"] + 180)/360, (height * (1 - (flight["origin"]["lat"] + 90)/180))]
-    # positionList[flight["destination"]["name"]] = [
-    #     width * (flight["destination"]["lon"] + 180)/360, (height * (1 - (flight["destination"]["lat"] + 90)/180))]
-
     positionList[flight["origin"]["name"]] = cordsToPixels(
         flight["origin"]["lat"], flight["origin"]["lon"])
     positionList[flight["destination"]["name"]] = cordsToPixels(
         flight["destination"]["lat"], flight["destination"]["lon"])
+    
+    destinationsList.append(flight["destination"]["name"])
+    originList.append(flight["origin"]["name"])
+    
+    if flight["origin"]["name"] in flightNumDict.keys():
+        flightNumDict[flight["origin"]["name"]] +=10
+    else:
+        flightNumDict[flight["origin"]["name"]] = 50
+        
+    if flight["destination"]["name"] in flightNumDict.keys():
+        flightNumDict[flight["destination"]["name"]] +=10
+    else:
+        flightNumDict[flight["destination"]["name"]] = 50
 
 
 allNodesList = list(set(departuresList + destinationsList))

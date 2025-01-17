@@ -48,7 +48,7 @@ for flight in validFlightList:
     except:
         continue
 
-    if flightData["destination"]["country"] != "United States of America" or flightData["origin"]["continent"] not in ["South America", "Asia", "North America", "Africa"] or flightData["origin"]["country"] in ["United States of America", "Canada"] or flightData["destination"]["state"] in ["Hawaii", "Guam"]:
+    if flightData["destination"]["country"] != "United States of America" or flightData["origin"]["continent"] not in ["South America", "Asia", "North America"] or flightData["origin"]["country"] in ["United States of America", "Canada"] or flightData["destination"]["state"] in ["Hawaii", "Guam"]:
         continue
 
     if flight in aaList:
